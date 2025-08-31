@@ -1,0 +1,1883 @@
+[
+{
+  "id": "U002",
+  "level": "A1–A2",
+  "difficulty": "kolay-orta",
+  "topic": "Present Simple Tense (do/does)",
+  "description_en": "The Present Simple tense is used for habits, routines, general truths, facts, and permanent situations.",
+  "description_tr": "Present Simple (Geniş Zaman), alışkanlıklar, rutinler, genel doğrular, gerçekler ve kalıcı durumlar için kullanılır.",
+  "objectives": [
+    "Learn affirmative, negative and question forms with all subjects.",
+    "Understand when to use 'do' and 'does'.",
+    "Practice spelling rules for third person singular (he/she/it).",
+    "Learn adverbs of frequency (always, often, usually, never).",
+    "Practice short answers."
+  ],
+  "forms": {
+    "affirmative": {
+      "en_pattern": "Subject + base verb (+ s/es for he/she/it).",
+      "tr_note": "Özne + fiil (he/she/it için fiile -s/-es eklenir).",
+      "examples": [
+        { "en": "I play football.", "tr": "Futbol oynarım." },
+        { "en": "She works in a bank.", "tr": "O bir bankada çalışır." },
+        { "en": "They live in Istanbul.", "tr": "Onlar İstanbul’da yaşar." }
+      ],
+      "spelling_rules_3rd_person": [
+        "Fiil + s → work → works",
+        "Fiil + -ch, -sh, -ss, -x, -o → es → watch → watches",
+        "Fiil + y → consonant + y → y → ies → study → studies (ama: play → plays)"
+      ]
+    },
+    "negative": {
+      "en_pattern": "Subject + do/does + not + base verb.",
+      "tr_note": "Özne + do/does not + fiil (yalın).",
+      "contractions": [
+        "do not → don't",
+        "does not → doesn't"
+      ],
+      "examples": [
+        { "en": "I don't like tea.", "tr": "Çay sevmem." },
+        { "en": "He doesn't go to school on Sundays.", "tr": "O pazar günleri okula gitmez." },
+        { "en": "We don't watch TV in the morning.", "tr": "Sabahları televizyon izlemeyiz." }
+      ]
+    },
+    "questions": {
+      "en_pattern": "Do/Does + subject + base verb?",
+      "examples": [
+        { "en": "Do you speak English?", "tr": "İngilizce konuşur musun?" },
+        { "en": "Does she play the piano?", "tr": "O piyano çalar mı?" },
+        { "en": "Do they live here?", "tr": "Burada mı yaşıyorlar?" }
+      ],
+      "short_answers": [
+        { "q": "Do you like pizza?", "yes": "Yes, I do.", "no": "No, I don't." },
+        { "q": "Does he work here?", "yes": "Yes, he does.", "no": "No, he doesn't." }
+      ]
+    }
+  },
+  "usage": {
+    "habits_routines": [
+      { "en": "I wake up at 7 o'clock every day.", "tr": "Her gün saat 7’de uyanırım." },
+      { "en": "She usually goes to the gym.", "tr": "O genellikle spor salonuna gider." }
+    ],
+    "general_truths": [
+      { "en": "The sun rises in the east.", "tr": "Güneş doğudan doğar." },
+      { "en": "Water boils at 100°C.", "tr": "Su 100 derecede kaynar." }
+    ],
+    "facts": [
+      { "en": "He works in a hospital.", "tr": "O bir hastanede çalışır." },
+      { "en": "We live in Turkey.", "tr": "Türkiye’de yaşarız." }
+    ],
+    "timetables_schedules": [
+      { "en": "The train leaves at 9.", "tr": "Tren 9’da kalkar." },
+      { "en": "School starts at 8:30.", "tr": "Okul 8:30’da başlar." }
+    ]
+  },
+  "time_expressions": [
+    "always",
+    "usually",
+    "often",
+    "sometimes",
+    "rarely",
+    "never",
+    "every day",
+    "on Mondays",
+    "at night"
+  ],
+  "common_mistakes": [
+    { "wrong": "She go to school.", "right": "She goes to school.", "tr_note": "He/She/It ile fiile -s eklenir." },
+    { "wrong": "He don’t like coffee.", "right": "He doesn’t like coffee.", "tr_note": "He/She/It için 'doesn't' kullanılır." },
+    { "wrong": "Does she likes music?", "right": "Does she like music?", "tr_note": "Soru cümlesinde fiil yalın kalır." }
+  ],
+  "examples": [
+    { "en": "I read books.", "tr": "Kitap okurum." },
+    { "en": "She drinks tea every morning.", "tr": "O her sabah çay içer." },
+    { "en": "They play football at weekends.", "tr": "Onlar hafta sonları futbol oynar." },
+    { "en": "We don't eat meat.", "tr": "Biz et yemeyiz." },
+    { "en": "He doesn't watch TV.", "tr": "O televizyon izlemez." },
+    { "en": "Do you go to school?", "tr": "Okula gider misin?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "At school",
+      "lines": [
+        { "en": "A: Do you like math?", "tr": "A: Matematiği sever misin?" },
+        { "en": "B: No, I don't. I like English.", "tr": "B: Hayır, sevmem. İngilizceyi severim." }
+      ]
+    },
+    {
+      "context": "Daily routine",
+      "lines": [
+        { "en": "A: What time do you wake up?", "tr": "A: Saat kaçta uyanırsın?" },
+        { "en": "B: I wake up at 7 o'clock.", "tr": "B: Saat 7’de uyanırım." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru fiil formu ile doldurun.",
+      "items": [
+        { "q": "She ___ (go) to school every day.", "a": "goes" },
+        { "q": "I ___ (not/like) coffee.", "a": "don't like" },
+        { "q": "___ you (play) tennis?", "a": "Do you play" },
+        { "q": "He ___ (not/work) on Sundays.", "a": "doesn't work" },
+        { "q": "The bus ___ (leave) at 8.", "a": "leaves" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "I like milk.", "a": "I don't like milk." },
+        { "q": "She plays football.", "a": "She doesn't play football." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "you / speak English", "a": "Do you speak English?" },
+        { "q": "he / play the guitar", "a": "Does he play the guitar?" }
+      ]
+    },
+    {
+      "type": "translate",
+      "instructions_tr": "Türkçeden İngilizceye çevirin.",
+      "items": [
+        { "q": "Ben her gün kitap okurum.", "a": "I read books every day." },
+        { "q": "O hafta sonları futbol oynamaz.", "a": "He doesn't play football at weekends." },
+        { "q": "Sen çay içer misin?", "a": "Do you drink tea?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "She ___ to school. (go/goes)", "a": "goes" },
+      { "q": "They ___ like pizza. (don't/doesn't)", "a": "don't" },
+      { "q": "___ you read books? (Do/Does)", "a": "Do" },
+      { "q": "Does he ___ football? (play/plays)", "a": "play" },
+      { "q": "Water ___ at 100°C. (boil/boils)", "a": "boils" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "a1",
+    "a2",
+    "present-simple",
+    "grammar",
+    "do-does",
+    "affirmative",
+    "negative",
+    "questions",
+    "frequency"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 40,
+    "recommended_prerequisites": ["Subject pronouns", "To be (am/is/are)"],
+    "next_topics": ["Present Continuous", "Adverbs of frequency in detail"]
+  }
+}
+,{
+  "id": "U003",
+  "level": "A1–A2",
+  "difficulty": "kolay-orta",
+  "topic": "Present Continuous Tense (am/is/are + V-ing)",
+  "description_en": "The Present Continuous tense is used for actions happening now, temporary situations, and near future plans.",
+  "description_tr": "Present Continuous (Şimdiki Zaman), şu anda gerçekleşen eylemler, geçici durumlar ve yakın gelecek planları için kullanılır.",
+  "objectives": [
+    "Learn affirmative, negative and question forms.",
+    "Use the '-ing' form of verbs correctly.",
+    "Understand the difference between 'now' and 'every day' (Present Simple vs Present Continuous).",
+    "Learn time expressions used with Present Continuous."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + am/is/are + verb-ing",
+      "examples": [
+        { "en": "I am studying.", "tr": "Ben ders çalışıyorum." },
+        { "en": "She is playing the guitar.", "tr": "O gitar çalıyor." },
+        { "en": "They are watching TV.", "tr": "Onlar televizyon izliyor." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + am/is/are + not + verb-ing",
+      "examples": [
+        { "en": "I am not sleeping.", "tr": "Ben uyumuyorum." },
+        { "en": "He is not working today.", "tr": "O bugün çalışmıyor." },
+        { "en": "We are not playing football.", "tr": "Biz futbol oynamıyoruz." }
+      ]
+    },
+    "questions": {
+      "pattern": "Am/Is/Are + subject + verb-ing?",
+      "examples": [
+        { "en": "Are you listening?", "tr": "Dinliyor musun?" },
+        { "en": "Is she reading a book?", "tr": "O kitap mı okuyor?" },
+        { "en": "Am I speaking too fast?", "tr": "Çok mu hızlı konuşuyorum?" }
+      ],
+      "short_answers": [
+        { "q": "Are you studying?", "yes": "Yes, I am.", "no": "No, I'm not." },
+        { "q": "Is he working?", "yes": "Yes, he is.", "no": "No, he isn't." }
+      ]
+    }
+  },
+  "usage": {
+    "actions_now": [
+      { "en": "I am talking to you.", "tr": "Seninle konuşuyorum." },
+      { "en": "She is cooking dinner.", "tr": "O akşam yemeği yapıyor." }
+    ],
+    "temporary_situations": [
+      { "en": "He is living in London this year.", "tr": "O bu yıl Londra’da yaşıyor." },
+      { "en": "We are staying at a hotel.", "tr": "Bir otelde kalıyoruz." }
+    ],
+    "near_future_plans": [
+      { "en": "I am meeting my friend tomorrow.", "tr": "Yarın arkadaşımla buluşuyorum." },
+      { "en": "They are traveling to Italy next week.", "tr": "Onlar gelecek hafta İtalya’ya gidiyorlar." }
+    ]
+  },
+  "time_expressions": [
+    "now",
+    "right now",
+    "at the moment",
+    "today",
+    "this week",
+    "currently",
+    "tomorrow (for future plan)",
+    "next week (for future plan)"
+  ],
+  "spelling_rules_ing": [
+    "Most verbs: play → playing, read → reading",
+    "Verbs ending with -e: make → making, write → writing",
+    "One vowel + one consonant: run → running, sit → sitting",
+    "Verbs ending with -ie: lie → lying, die → dying"
+  ],
+  "common_mistakes": [
+    { "wrong": "She playing football.", "right": "She is playing football.", "tr_note": "Yardımcı fiil (am/is/are) unutulmaz." },
+    { "wrong": "He is plays football.", "right": "He is playing football.", "tr_note": "Continuous’ta fiil -ing alır, -s eklenmez." },
+    { "wrong": "I am study now.", "right": "I am studying now.", "tr_note": "Fiil -ing alır." }
+  ],
+  "examples": [
+    { "en": "I am drinking water.", "tr": "Ben su içiyorum." },
+    { "en": "We are studying English.", "tr": "Biz İngilizce çalışıyoruz." },
+    { "en": "She is not listening.", "tr": "O dinlemiyor." },
+    { "en": "Are they playing basketball?", "tr": "Onlar basketbol oynuyor mu?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "On the phone",
+      "lines": [
+        { "en": "A: What are you doing?", "tr": "A: Ne yapıyorsun?" },
+        { "en": "B: I am watching TV.", "tr": "B: Televizyon izliyorum." }
+      ]
+    },
+    {
+      "context": "At school",
+      "lines": [
+        { "en": "A: Is she studying?", "tr": "A: O ders mi çalışıyor?" },
+        { "en": "B: No, she isn’t. She is listening to music.", "tr": "B: Hayır, çalışmıyor. O müzik dinliyor." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru 'am/is/are + -ing' formu ile doldurun.",
+      "items": [
+        { "q": "She ___ (read) a book.", "a": "is reading" },
+        { "q": "I ___ (not/sleep) now.", "a": "am not sleeping" },
+        { "q": "___ they (play) football?", "a": "Are they playing" },
+        { "q": "We ___ (study) English today.", "a": "are studying" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He is working.", "a": "He isn’t working." },
+        { "q": "They are playing tennis.", "a": "They aren’t playing tennis." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "she / watch TV", "a": "Is she watching TV?" },
+        { "q": "you / study now", "a": "Are you studying now?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (am/are) playing now.", "a": "am" },
+      { "q": "She ___ reading a book.", "a": "is" },
+      { "q": "They ___ watching TV.", "a": "are" },
+      { "q": "He is ___ (run/running).", "a": "running" },
+      { "q": "___ you sleeping?", "a": "Are" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "a1",
+    "a2",
+    "present-continuous",
+    "grammar",
+    "am-is-are",
+    "v-ing"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 40,
+    "recommended_prerequisites": ["To be (am/is/are)", "Present Simple"],
+    "next_topics": ["Past Simple", "Present Simple vs Present Continuous"]
+  }
+}
+,{
+  "id": "U004",
+  "level": "A1–A2",
+  "difficulty": "orta",
+  "topic": "Past Simple Tense (did / V2)",
+  "description_en": "The Past Simple tense is used for finished actions in the past, completed events, and past habits.",
+  "description_tr": "Past Simple (Geçmiş Zaman), geçmişte tamamlanmış eylemler, olaylar ve geçmiş alışkanlıklar için kullanılır.",
+  "objectives": [
+    "Learn regular and irregular verb forms.",
+    "Use affirmative, negative and question structures.",
+    "Understand the difference between 'did' and V2.",
+    "Practice time expressions for past tense."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + V2 (past form of the verb)",
+      "examples": [
+        { "en": "I watched a movie yesterday.", "tr": "Dün bir film izledim." },
+        { "en": "She went to school.", "tr": "O okula gitti." },
+        { "en": "They played football.", "tr": "Onlar futbol oynadılar." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + did not (didn't) + base verb",
+      "examples": [
+        { "en": "I didn’t watch TV.", "tr": "Televizyon izlemedim." },
+        { "en": "He didn’t go to the party.", "tr": "O partiye gitmedi." },
+        { "en": "We didn’t play tennis.", "tr": "Biz tenis oynamadık." }
+      ]
+    },
+    "questions": {
+      "pattern": "Did + subject + base verb?",
+      "examples": [
+        { "en": "Did you go to school?", "tr": "Okula gittin mi?" },
+        { "en": "Did she watch the film?", "tr": "O filmi izledi mi?" },
+        { "en": "Did they play football?", "tr": "Onlar futbol oynadılar mı?" }
+      ],
+      "short_answers": [
+        { "q": "Did you study?", "yes": "Yes, I did.", "no": "No, I didn’t." },
+        { "q": "Did he work yesterday?", "yes": "Yes, he did.", "no": "No, he didn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "finished_actions": [
+      { "en": "I visited my grandmother last week.", "tr": "Geçen hafta büyükannemi ziyaret ettim." },
+      { "en": "He watched TV yesterday.", "tr": "O dün televizyon izledi." }
+    ],
+    "completed_events": [
+      { "en": "They arrived in Paris at 9.", "tr": "Onlar Paris’e saat 9’da vardılar." },
+      { "en": "The train left on time.", "tr": "Tren zamanında kalktı." }
+    ],
+    "past_habits": [
+      { "en": "When I was a child, I played outside every day.", "tr": "Çocukken her gün dışarıda oynardım." }
+    ]
+  },
+  "time_expressions": [
+    "yesterday",
+    "last week",
+    "last year",
+    "ago (two days ago, three years ago)",
+    "in 1999",
+    "when I was a child"
+  ],
+  "regular_verbs_rule": [
+    "V1 + ed → play → played",
+    "Fiil -e ile bitiyorsa: like → liked",
+    "Sessiz + y → y → ied → study → studied",
+    "Düzensiz fiiller (irregular verbs) farklı: go → went, see → saw"
+  ],
+  "common_mistakes": [
+    { "wrong": "He didn’t went to school.", "right": "He didn’t go to school.", "tr_note": "Did’den sonra fiil yalın kullanılır." },
+    { "wrong": "Did she went home?", "right": "Did she go home?", "tr_note": "Soru cümlesinde fiil yalın kalır." },
+    { "wrong": "I watch a movie yesterday.", "right": "I watched a movie yesterday.", "tr_note": "Past Simple’da fiil geçmiş zaman alır." }
+  ],
+  "examples": [
+    { "en": "I visited London last year.", "tr": "Geçen yıl Londra’yı ziyaret ettim." },
+    { "en": "She studied for the exam.", "tr": "O sınava çalıştı." },
+    { "en": "We didn’t play football yesterday.", "tr": "Dün futbol oynamadık." },
+    { "en": "Did you call your friend?", "tr": "Arkadaşını aradın mı?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "At home",
+      "lines": [
+        { "en": "A: Did you watch the movie?", "tr": "A: Filmi izledin mi?" },
+        { "en": "B: Yes, I did. It was great!", "tr": "B: Evet, izledim. Harikaydı!" }
+      ]
+    },
+    {
+      "context": "At school",
+      "lines": [
+        { "en": "A: Where did you go yesterday?", "tr": "A: Dün nereye gittin?" },
+        { "en": "B: I went to the library.", "tr": "B: Kütüphaneye gittim." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru geçmiş zaman fiili ile doldurun.",
+      "items": [
+        { "q": "She ___ (go) to school yesterday.", "a": "went" },
+        { "q": "I ___ (not/watch) TV last night.", "a": "didn’t watch" },
+        { "q": "___ you (see) him yesterday?", "a": "Did you see" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He visited his uncle.", "a": "He didn’t visit his uncle." },
+        { "q": "They played football.", "a": "They didn’t play football." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "you / watch TV / yesterday", "a": "Did you watch TV yesterday?" },
+        { "q": "she / call her friend", "a": "Did she call her friend?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "He ___ (go) to the park yesterday.", "a": "went" },
+      { "q": "They ___ (not/play) football.", "a": "didn’t play" },
+      { "q": "Did you ___ (see) her last night?", "a": "see" },
+      { "q": "I ___ (study) English yesterday.", "a": "studied" },
+      { "q": "She ___ (not/go) to school.", "a": "didn’t go" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "a1",
+    "a2",
+    "past-simple",
+    "grammar",
+    "regular-verbs",
+    "irregular-verbs"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 45,
+    "recommended_prerequisites": ["Present Simple", "Present Continuous"],
+    "next_topics": ["Past Continuous", "Used to"]
+  }
+}
+,{
+  "id": "U005",
+  "level": "A2",
+  "difficulty": "orta",
+  "topic": "Past Continuous Tense (was/were + V-ing)",
+  "description_en": "The Past Continuous tense is used for actions that were in progress at a specific time in the past, interrupted actions, and background descriptions.",
+  "description_tr": "Past Continuous (Şimdiki Zamanın Hikayesi), geçmişte belirli bir anda devam eden eylemler, başka bir olay tarafından kesilen eylemler ve arka plan betimlemeleri için kullanılır.",
+  "objectives": [
+    "Learn how to form Past Continuous with was/were + V-ing.",
+    "Differentiate between Past Simple and Past Continuous.",
+    "Use time expressions with Past Continuous.",
+    "Practice with interrupted actions and background descriptions."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + was/were + verb-ing",
+      "examples": [
+        { "en": "I was reading a book at 8 o’clock.", "tr": "Saat 8’de kitap okuyordum." },
+        { "en": "She was cooking dinner.", "tr": "O akşam yemeği pişiriyordu." },
+        { "en": "They were playing football yesterday evening.", "tr": "Dün akşam futbol oynuyorlardı." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + was/were + not + verb-ing",
+      "examples": [
+        { "en": "I wasn’t sleeping at 10.", "tr": "Saat 10’da uyumuyordum." },
+        { "en": "He wasn’t working yesterday afternoon.", "tr": "O dün öğleden sonra çalışmıyordu." },
+        { "en": "We weren’t watching TV.", "tr": "Biz televizyon izlemiyorduk." }
+      ]
+    },
+    "questions": {
+      "pattern": "Was/Were + subject + verb-ing?",
+      "examples": [
+        { "en": "Were you studying last night?", "tr": "Dün gece ders çalışıyor muydun?" },
+        { "en": "Was she sleeping at 11?", "tr": "O saat 11’de uyuyor muydu?" },
+        { "en": "Were they playing football?", "tr": "Onlar futbol oynuyorlar mıydı?" }
+      ],
+      "short_answers": [
+        { "q": "Was he working?", "yes": "Yes, he was.", "no": "No, he wasn’t." },
+        { "q": "Were they playing?", "yes": "Yes, they were.", "no": "No, they weren’t." }
+      ]
+    }
+  },
+  "usage": {
+    "action_in_progress": [
+      { "en": "I was watching TV at 7.", "tr": "Saat 7’de televizyon izliyordum." },
+      { "en": "They were studying all afternoon.", "tr": "Onlar bütün öğleden sonra ders çalışıyorlardı." }
+    ],
+    "interrupted_actions": [
+      { "en": "I was reading when the phone rang.", "tr": "Telefon çaldığında kitap okuyordum." },
+      { "en": "She was cooking when her friend arrived.", "tr": "Arkadaşı geldiğinde yemek pişiriyordu." }
+    ],
+    "background_description": [
+      { "en": "The birds were singing and the sun was shining.", "tr": "Kuşlar ötüyordu ve güneş parlıyordu." }
+    ]
+  },
+  "time_expressions": [
+    "while",
+    "when",
+    "at that moment",
+    "yesterday at 5 o’clock",
+    "all day",
+    "the whole evening"
+  ],
+  "common_mistakes": [
+    { "wrong": "I was play football.", "right": "I was playing football.", "tr_note": "Continuous yapıda fiil -ing alır." },
+    { "wrong": "They were plays football.", "right": "They were playing football.", "tr_note": "Continuous’ta fiil yalın + ing olur." },
+    { "wrong": "Was she went home?", "right": "Was she going home?", "tr_note": "Past Continuous’ta 'going' kullanılır, 'went' değil." }
+  ],
+  "examples": [
+    { "en": "I was doing my homework at 9.", "tr": "Saat 9’da ödevimi yapıyordum." },
+    { "en": "He wasn’t watching TV.", "tr": "O televizyon izlemiyordu." },
+    { "en": "Were you sleeping when I called?", "tr": "Ben aradığımda uyuyor muydun?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "On the phone",
+      "lines": [
+        { "en": "A: What were you doing yesterday at 8?", "tr": "A: Dün saat 8’de ne yapıyordun?" },
+        { "en": "B: I was studying for the exam.", "tr": "B: Sınava çalışıyordum." }
+      ]
+    },
+    {
+      "context": "At school",
+      "lines": [
+        { "en": "A: Were you listening to the teacher?", "tr": "A: Öğretmeni dinliyor muydun?" },
+        { "en": "B: Yes, I was.", "tr": "B: Evet, dinliyordum." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru 'was/were + -ing' formu ile doldurun.",
+      "items": [
+        { "q": "She ___ (sleep) at 10.", "a": "was sleeping" },
+        { "q": "They ___ (not/play) football.", "a": "were not playing" },
+        { "q": "___ you (study) at 7?", "a": "Were you studying" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He was working.", "a": "He wasn’t working." },
+        { "q": "We were watching TV.", "a": "We weren’t watching TV." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "they / play football / yesterday", "a": "Were they playing football yesterday?" },
+        { "q": "she / study at 8", "a": "Was she studying at 8?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (was/were) watching TV at 9.", "a": "was" },
+      { "q": "They ___ (was/were) playing football.", "a": "were" },
+      { "q": "He was ___ (read/reading) a book.", "a": "reading" },
+      { "q": "Were you ___ (sleep/sleeping) when I called?", "a": "sleeping" },
+      { "q": "She ___ (wasn’t/weren’t) listening.", "a": "wasn’t" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "a2",
+    "past-continuous",
+    "grammar",
+    "was-were",
+    "v-ing"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 40,
+    "recommended_prerequisites": ["Past Simple", "Present Continuous"],
+    "next_topics": ["Past Perfect", "Past Simple vs Past Continuous"]
+  }
+}
+,{
+  "id": "U006",
+  "level": "B1",
+  "difficulty": "orta",
+  "topic": "Present Perfect Tense (have/has + V3)",
+  "description_en": "The Present Perfect tense connects the past with the present. It is used for experiences, actions that started in the past and continue now, and actions with present results.",
+  "description_tr": "Present Perfect (Yakın Geçmiş Zaman), geçmiş ile şimdiki zamanı birbirine bağlar. Deneyimler, geçmişte başlayıp hala devam eden eylemler ve sonucu şu anda görülen eylemler için kullanılır.",
+  "objectives": [
+    "Learn the structure of have/has + V3.",
+    "Differentiate between Present Perfect and Past Simple.",
+    "Use Present Perfect with time expressions (already, yet, just, ever, never, since, for).",
+    "Practice affirmative, negative and interrogative forms."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + have/has + V3 (past participle)",
+      "examples": [
+        { "en": "I have visited London.", "tr": "Londra’yı ziyaret ettim." },
+        { "en": "She has finished her homework.", "tr": "O ödevini bitirdi." },
+        { "en": "They have lived here for 10 years.", "tr": "Onlar burada 10 yıldır yaşıyorlar." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + have/has + not + V3",
+      "examples": [
+        { "en": "I haven’t seen that movie.", "tr": "O filmi izlemedim." },
+        { "en": "He hasn’t finished his work.", "tr": "O işini bitirmedi." },
+        { "en": "We haven’t eaten yet.", "tr": "Biz daha yemek yemedik." }
+      ]
+    },
+    "questions": {
+      "pattern": "Have/Has + subject + V3?",
+      "examples": [
+        { "en": "Have you ever been to Paris?", "tr": "Hiç Paris’e gittin mi?" },
+        { "en": "Has she called you?", "tr": "O seni aradı mı?" },
+        { "en": "Have they finished the project?", "tr": "Onlar projeyi bitirdiler mi?" }
+      ],
+      "short_answers": [
+        { "q": "Have you done your homework?", "yes": "Yes, I have.", "no": "No, I haven’t." },
+        { "q": "Has he eaten breakfast?", "yes": "Yes, he has.", "no": "No, he hasn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "experience": [
+      { "en": "I have been to Italy.", "tr": "İtalya’ya gittim." },
+      { "en": "She has never tried sushi.", "tr": "O hiç sushi denemedi." }
+    ],
+    "actions_continuing": [
+      { "en": "They have lived here since 2010.", "tr": "Onlar 2010’dan beri burada yaşıyorlar." },
+      { "en": "I have worked here for 5 years.", "tr": "Burada 5 yıldır çalışıyorum." }
+    ],
+    "recent_actions_with_results": [
+      { "en": "I have just finished my homework.", "tr": "Ödevimi yeni bitirdim." },
+      { "en": "She has already left.", "tr": "O çoktan ayrıldı." }
+    ]
+  },
+  "time_expressions": [
+    "already",
+    "yet",
+    "just",
+    "ever",
+    "never",
+    "since",
+    "for",
+    "recently",
+    "so far",
+    "lately"
+  ],
+  "common_mistakes": [
+    { "wrong": "I have went to London.", "right": "I have gone to London.", "tr_note": "Present Perfect’te fiilin 3. hali (V3) kullanılır." },
+    { "wrong": "She has ate lunch.", "right": "She has eaten lunch.", "tr_note": "Yanlış V2 yerine V3 kullanılmalı." },
+    { "wrong": "I have finished my homework yesterday.", "right": "I finished my homework yesterday.", "tr_note": "‘Yesterday’ Past Simple ile kullanılır, Present Perfect ile değil." }
+  ],
+  "examples": [
+    { "en": "I have never seen that movie.", "tr": "O filmi hiç görmedim." },
+    { "en": "We have already done our homework.", "tr": "Biz ödevimizi çoktan yaptık." },
+    { "en": "She hasn’t visited Paris yet.", "tr": "O henüz Paris’i ziyaret etmedi." },
+    { "en": "Have you ever eaten sushi?", "tr": "Hiç sushi yedin mi?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "At school",
+      "lines": [
+        { "en": "A: Have you finished your project?", "tr": "A: Projeni bitirdin mi?" },
+        { "en": "B: Yes, I have.", "tr": "B: Evet, bitirdim." }
+      ]
+    },
+    {
+      "context": "Travel experience",
+      "lines": [
+        { "en": "A: Have you ever been abroad?", "tr": "A: Hiç yurtdışına çıktın mı?" },
+        { "en": "B: No, I haven’t.", "tr": "B: Hayır, çıkmadım." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru 'have/has + V3' formu ile doldurun.",
+      "items": [
+        { "q": "I ___ (see) that film.", "a": "have seen" },
+        { "q": "She ___ (not/finish) her homework.", "a": "has not finished" },
+        { "q": "___ you ever (be) to London?", "a": "Have you ever been" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He has called me.", "a": "He hasn’t called me." },
+        { "q": "They have eaten breakfast.", "a": "They haven’t eaten breakfast." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "she / finish homework", "a": "Has she finished her homework?" },
+        { "q": "you / ever / try sushi", "a": "Have you ever tried sushi?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (have/has) never been to Spain.", "a": "have" },
+      { "q": "She ___ (has/have) already finished her homework.", "a": "has" },
+      { "q": "They have ___ (eat/eaten) lunch.", "a": "eaten" },
+      { "q": "Have you ___ (see/seen) this movie?", "a": "seen" },
+      { "q": "We ___ (not/finish) our project yet.", "a": "have not finished" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "b1",
+    "present-perfect",
+    "grammar",
+    "have-has",
+    "v3"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 50,
+    "recommended_prerequisites": ["Past Simple", "Present Simple"],
+    "next_topics": ["Present Perfect Continuous", "Past Perfect"]
+  }
+}
+,{
+  "id": "U007",
+  "level": "B1-B2",
+  "difficulty": "orta-ileri",
+  "topic": "Present Perfect Continuous Tense (have/has + been + V-ing)",
+  "description_en": "The Present Perfect Continuous is used to show that an action started in the past and is still continuing, or that it has recently stopped but its effects are still visible.",
+  "description_tr": "Present Perfect Continuous (Yakın Geçmişte Devam Eden Zaman), geçmişte başlayıp halen devam eden veya yeni bitmiş ama etkisi halen görülen eylemler için kullanılır.",
+  "objectives": [
+    "Learn the structure have/has + been + V-ing.",
+    "Use Present Perfect Continuous for ongoing actions.",
+    "Differentiate between Present Perfect and Present Perfect Continuous.",
+    "Practice with time expressions like for, since, all day."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + have/has + been + verb-ing",
+      "examples": [
+        { "en": "I have been studying for two hours.", "tr": "İki saattir ders çalışıyorum." },
+        { "en": "She has been working since morning.", "tr": "O sabahtan beri çalışıyor." },
+        { "en": "They have been playing football all day.", "tr": "Onlar bütün gün futbol oynuyorlar." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + have/has + not + been + verb-ing",
+      "examples": [
+        { "en": "I haven’t been sleeping well lately.", "tr": "Son zamanlarda iyi uyumuyorum." },
+        { "en": "He hasn’t been studying enough.", "tr": "O yeterince çalışmıyor." },
+        { "en": "We haven’t been waiting for long.", "tr": "Biz uzun süredir beklemiyoruz." }
+      ]
+    },
+    "questions": {
+      "pattern": "Have/Has + subject + been + verb-ing?",
+      "examples": [
+        { "en": "Have you been reading this book?", "tr": "Bu kitabı mı okuyorsun?" },
+        { "en": "Has she been working here for long?", "tr": "O uzun zamandır burada mı çalışıyor?" },
+        { "en": "Have they been studying all night?", "tr": "Onlar bütün gece ders mi çalışıyorlar?" }
+      ],
+      "short_answers": [
+        { "q": "Have you been waiting long?", "yes": "Yes, I have.", "no": "No, I haven’t." },
+        { "q": "Has he been studying?", "yes": "Yes, he has.", "no": "No, he hasn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "action_continuing_now": [
+      { "en": "I have been learning English for 3 years.", "tr": "Üç yıldır İngilizce öğreniyorum." },
+      { "en": "She has been working here since 2020.", "tr": "O 2020’den beri burada çalışıyor." }
+    ],
+    "recent_actions_with_results": [
+      { "en": "I am tired because I have been running.", "tr": "Yorgunum çünkü koşuyordum." },
+      { "en": "Her hands are dirty because she has been painting.", "tr": "Ellerinin kirli çünkü resim yapıyordu." }
+    ],
+    "temporary_actions": [
+      { "en": "They have been staying with us for a week.", "tr": "Onlar bir haftadır bizimle kalıyorlar." }
+    ]
+  },
+  "time_expressions": [
+    "for",
+    "since",
+    "all day",
+    "lately",
+    "recently",
+    "how long",
+    "the whole week"
+  ],
+  "common_mistakes": [
+    { "wrong": "I have been study English.", "right": "I have been studying English.", "tr_note": "Continuous yapılarda fiil -ing alır." },
+    { "wrong": "She has studying English.", "right": "She has been studying English.", "tr_note": "‘Has’ten sonra ‘been’ kullanılmalı." },
+    { "wrong": "I have been knowing him for years.", "right": "I have known him for years.", "tr_note": "Stative fiiller (know, like, love) Continuous ile kullanılmaz." }
+  ],
+  "examples": [
+    { "en": "We have been working on this project for months.", "tr": "Bu proje üzerinde aylardır çalışıyoruz." },
+    { "en": "He hasn’t been feeling well lately.", "tr": "O son zamanlarda iyi hissetmiyor." },
+    { "en": "Have you been exercising recently?", "tr": "Son zamanlarda egzersiz yapıyor musun?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "At the gym",
+      "lines": [
+        { "en": "A: You look tired. What have you been doing?", "tr": "A: Yorgun görünüyorsun. Ne yapıyordun?" },
+        { "en": "B: I have been running for an hour.", "tr": "B: Bir saattir koşuyorum." }
+      ]
+    },
+    {
+      "context": "At school",
+      "lines": [
+        { "en": "A: How long have you been studying English?", "tr": "A: Ne zamandır İngilizce çalışıyorsun?" },
+        { "en": "B: For three years.", "tr": "B: Üç yıldır." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru 'have/has + been + -ing' formu ile doldurun.",
+      "items": [
+        { "q": "I ___ (wait) for you since 5 o’clock.", "a": "have been waiting" },
+        { "q": "She ___ (not/sleep) well lately.", "a": "has not been sleeping" },
+        { "q": "___ you (study) for the exam?", "a": "Have you been studying" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He has been working all day.", "a": "He hasn’t been working all day." },
+        { "q": "They have been playing football.", "a": "They haven’t been playing football." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "she / work / here / since 2019", "a": "Has she been working here since 2019?" },
+        { "q": "you / wait / long", "a": "Have you been waiting long?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (have/has) been working here for 5 years.", "a": "have" },
+      { "q": "She ___ (have/has) been studying English since 2020.", "a": "has" },
+      { "q": "They have been ___ (play/playing) football all afternoon.", "a": "playing" },
+      { "q": "He ___ (not/been/working) hard lately.", "a": "has not been working" },
+      { "q": "___ you been waiting long?", "a": "Have" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "b1",
+    "present-perfect-continuous",
+    "grammar",
+    "have-has-been",
+    "v-ing"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 50,
+    "recommended_prerequisites": ["Present Perfect", "Present Continuous"],
+    "next_topics": ["Past Perfect", "Past Perfect Continuous"]
+  }
+}
+,{
+  "id": "U008",
+  "level": "B1-B2",
+  "difficulty": "orta-ileri",
+  "topic": "Past Perfect Tense (had + V3)",
+  "description_en": "The Past Perfect tense is used to describe an action that happened before another action or point in the past. It shows the sequence of past events.",
+  "description_tr": "Past Perfect (Mișli Geçmiş Zaman), geçmişteki iki olaydan önce gerçekleşmiş olanı anlatmak için kullanılır. Olayların sırasını gösterir.",
+  "objectives": [
+    "Learn the structure had + V3.",
+    "Use Past Perfect to show the order of past events.",
+    "Differentiate Past Perfect from Past Simple.",
+    "Practice affirmative, negative and interrogative forms.",
+    "Use time expressions like before, after, already, just, by the time."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + had + V3",
+      "examples": [
+        { "en": "I had finished my homework before dinner.", "tr": "Akşam yemeğinden önce ödevimi bitirmiştim." },
+        { "en": "She had left when I arrived.", "tr": "Ben vardığımda o gitmişti." },
+        { "en": "They had already seen the movie.", "tr": "Onlar filmi çoktan görmüşlerdi." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + had + not + V3",
+      "examples": [
+        { "en": "I hadn’t met him before.", "tr": "Onunla daha önce tanışmamıştım." },
+        { "en": "He hadn’t finished his work before the meeting.", "tr": "Toplantıdan önce işini bitirmemişti." },
+        { "en": "We hadn’t visited Paris before 2019.", "tr": "2019’dan önce Paris’i ziyaret etmemiştik." }
+      ]
+    },
+    "questions": {
+      "pattern": "Had + subject + V3?",
+      "examples": [
+        { "en": "Had you finished your homework before dinner?", "tr": "Akşam yemeğinden önce ödevini bitirmiş miydin?" },
+        { "en": "Had she left when you arrived?", "tr": "Sen vardığında o gitmiş miydi?" },
+        { "en": "Had they ever visited London?", "tr": "Onlar hiç Londra’yı ziyaret etmişler miydi?" }
+      ],
+      "short_answers": [
+        { "q": "Had you seen that movie?", "yes": "Yes, I had.", "no": "No, I hadn’t." },
+        { "q": "Had he finished work?", "yes": "Yes, he had.", "no": "No, he hadn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "sequence_of_events": [
+      { "en": "I had cleaned the house before my friends arrived.", "tr": "Arkadaşlarım gelmeden evi temizlemiştim." },
+      { "en": "She had cooked dinner before her husband came home.", "tr": "Kocası gelmeden önce akşam yemeğini hazırlamıştı." }
+    ],
+    "experience_before_past": [
+      { "en": "I had never seen such a beautiful place before.", "tr": "Daha önce böyle güzel bir yer görmemiştim." },
+      { "en": "They had already visited the museum before it closed.", "tr": "Müze kapanmadan önce çoktan ziyaret etmişlerdi." }
+    ]
+  },
+  "time_expressions": [
+    "before",
+    "after",
+    "by the time",
+    "already",
+    "just",
+    "never",
+    "until"
+  ],
+  "common_mistakes": [
+    { "wrong": "I had went home before dinner.", "right": "I had gone home before dinner.", "tr_note": "Past Perfect’te fiilin 3. hali (V3) kullanılır." },
+    { "wrong": "She hadn’t went to school.", "right": "She hadn’t gone to school.", "tr_note": "V2 yerine V3 kullanılmalı." },
+    { "wrong": "Had you saw that movie?", "right": "Had you seen that movie?", "tr_note": "Soru cümlesinde V3 kullanılır." }
+  ],
+  "examples": [
+    { "en": "He had already left when I called.", "tr": "Ben aradığımda o çoktan gitmişti." },
+    { "en": "We had finished the project before the deadline.", "tr": "Projeyi son tarihten önce bitirmiştik." },
+    { "en": "Had you ever been to Italy before 2018?", "tr": "2018’den önce hiç İtalya’ya gitmiş miydin?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "Before a meeting",
+      "lines": [
+        { "en": "A: Had you prepared the slides before the meeting?", "tr": "Toplantıdan önce slaytları hazırlamış mıydın?" },
+        { "en": "B: Yes, I had.", "tr": "Evet, hazırlamıştım." }
+      ]
+    },
+    {
+      "context": "Travel experience",
+      "lines": [
+        { "en": "A: Had they visited Paris before 2019?", "tr": "2019’dan önce Paris’i ziyaret etmişler miydi?" },
+        { "en": "B: No, they hadn’t.", "tr": "Hayır, etmemişlerdi." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru 'had + V3' formu ile doldurun.",
+      "items": [
+        { "q": "I ___ (finish) my homework before dinner.", "a": "had finished" },
+        { "q": "She ___ (not/leave) when I arrived.", "a": "had not left" },
+        { "q": "___ you ever (see) that movie before?", "a": "Had you ever seen" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "They had visited the museum.", "a": "They hadn’t visited the museum." },
+        { "q": "He had finished work.", "a": "He hadn’t finished work." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "she / finish project / before deadline", "a": "Had she finished the project before the deadline?" },
+        { "q": "you / ever / be / to London", "a": "Had you ever been to London?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (had/has) already eaten when he called.", "a": "had" },
+      { "q": "She ___ (had/has) left before I arrived.", "a": "had" },
+      { "q": "They had ___ (visit/visited) the museum before it closed.", "a": "visited" },
+      { "q": "___ you finished your homework before dinner?", "a": "Had" },
+      { "q": "He ___ (not/had) completed the task.", "a": "had not" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "b1",
+    "past-perfect",
+    "grammar",
+    "had",
+    "v3"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 45,
+    "recommended_prerequisites": ["Past Simple", "Present Perfect"],
+    "next_topics": ["Past Perfect Continuous", "Reported Speech"]
+  }
+}
+,{
+  "id": "U009",
+  "level": "B2",
+  "difficulty": "orta-ileri",
+  "topic": "Past Perfect Continuous Tense (had + been + V-ing)",
+  "description_en": "The Past Perfect Continuous tense is used to show that an action was ongoing over a period of time before another action or point in the past.",
+  "description_tr": "Past Perfect Continuous (Mișli Yakın Geçmiş Zaman), geçmişteki bir noktadan önce bir süredir devam eden eylemleri anlatmak için kullanılır.",
+  "objectives": [
+    "Learn the structure had + been + V-ing.",
+    "Use Past Perfect Continuous to describe actions that were ongoing before a past event.",
+    "Differentiate between Past Perfect and Past Perfect Continuous.",
+    "Practice affirmative, negative and interrogative forms.",
+    "Use time expressions like for, since, all day, by the time."
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + had + been + verb-ing",
+      "examples": [
+        { "en": "I had been studying for two hours before she arrived.", "tr": "O gelmeden önce iki saattir ders çalışıyordum." },
+        { "en": "They had been playing football all morning before it started raining.", "tr": "Yağmur başlamadan önce bütün sabah futbol oynuyorlardı." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + had + not + been + verb-ing",
+      "examples": [
+        { "en": "He hadn’t been sleeping well before the trip.", "tr": "Seyahatten önce iyi uyumuyordu." },
+        { "en": "We hadn’t been waiting long when the bus arrived.", "tr": "Otobüs gelene kadar uzun süre beklemiyorduk." }
+      ]
+    },
+    "questions": {
+      "pattern": "Had + subject + been + verb-ing?",
+      "examples": [
+        { "en": "Had you been working before they called?", "tr": "Onlar aramadan önce çalışıyor muydun?" },
+        { "en": "Had she been studying all night before the exam?", "tr": "Sınavdan önce bütün gece mi çalışıyordu?" },
+        { "en": "Had they been traveling for a long time?", "tr": "Uzun süre mi seyahat ediyorlardı?" }
+      ],
+      "short_answers": [
+        { "q": "Had you been waiting long?", "yes": "Yes, I had.", "no": "No, I hadn’t." },
+        { "q": "Had he been working?", "yes": "Yes, he had.", "no": "No, he hadn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "ongoing_actions_before_past_event": [
+      { "en": "I had been reading the book for two hours before he came.", "tr": "O gelmeden önce iki saattir kitabı okuyordum." },
+      { "en": "She had been working at the company for 5 years before she resigned.", "tr": "İstifa etmeden önce beş yıldır şirkette çalışıyordu." }
+    ],
+    "cause_and_effect": [
+      { "en": "He was tired because he had been running.", "tr": "Yorgundu çünkü koşuyordu." },
+      { "en": "Her hands were dirty because she had been painting.", "tr": "Ellerinin kirliydi çünkü resim yapıyordu." }
+    ]
+  },
+  "time_expressions": [
+    "for",
+    "since",
+    "all day",
+    "all morning",
+    "by the time",
+    "before"
+  ],
+  "common_mistakes": [
+    { "wrong": "I had been study for two hours.", "right": "I had been studying for two hours.", "tr_note": "Continuous yapılarda fiil -ing alır." },
+    { "wrong": "She had been worked here.", "right": "She had been working here.", "tr_note": "'Had' + 'been' + V-ing yapısı kullanılmalı." },
+    { "wrong": "Had you been knew him?", "right": "Had you been knowing him?", "tr_note": "Stative fiillerle Continuous kullanılmaz (know, like, love)." }
+  ],
+  "examples": [
+    { "en": "We had been waiting for an hour before the train arrived.", "tr": "Tren gelmeden önce bir saattir bekliyorduk." },
+    { "en": "He had been studying all night before the exam.", "tr": "Sınavdan önce bütün gece ders çalışıyordu." },
+    { "en": "Had you been working on this project for long?", "tr": "Bu proje üzerinde uzun süredir mi çalışıyordun?" }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "Before the meeting",
+      "lines": [
+        { "en": "A: Had you been preparing the report before the meeting?", "tr": "Toplantıdan önce raporu hazırlıyor muydun?" },
+        { "en": "B: Yes, I had.", "tr": "Evet, hazırlıyordum." }
+      ]
+    },
+    {
+      "context": "Travel",
+      "lines": [
+        { "en": "A: Had they been traveling for a long time?", "tr": "Uzun süre mi seyahat ediyorlardı?" },
+        { "en": "B: No, they hadn’t.", "tr": "Hayır, uzun süre seyahat etmemişlerdi." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları doğru 'had + been + -ing' formu ile doldurun.",
+      "items": [
+        { "q": "I ___ (wait) for you for an hour before you arrived.", "a": "had been waiting" },
+        { "q": "She ___ (not/sleep) well before the trip.", "a": "had not been sleeping" },
+        { "q": "___ you (study) before the exam?", "a": "Had you been studying" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "They had been playing football.", "a": "They hadn’t been playing football." },
+        { "q": "He had been working all day.", "a": "He hadn’t been working all day." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "she / work / at company / for 5 years", "a": "Had she been working at the company for 5 years?" },
+        { "q": "you / wait / long", "a": "Had you been waiting long?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (had/has) been working for 2 hours before lunch.", "a": "had" },
+      { "q": "She ___ (had/has) been studying all night.", "a": "had" },
+      { "q": "They had been ___ (wait/waiting) for the bus.", "a": "waiting" },
+      { "q": "___ you been studying before the test?", "a": "Had" },
+      { "q": "He ___ (not/had) been working hard.", "a": "had not" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "b2",
+    "past-perfect-continuous",
+    "grammar",
+    "had-been",
+    "v-ing"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 50,
+    "recommended_prerequisites": ["Past Perfect", "Past Continuous"],
+    "next_topics": ["Future Tenses", "Reported Speech"]
+  }
+}
+,{
+  "id": "U010",
+  "level": "B1-B2",
+  "difficulty": "orta-ileri",
+  "topic": "Future Tenses (will / going to / Present Continuous for future)",
+  "description_en": "Future tenses are used to talk about events that will happen later. 'Will' expresses decisions or predictions, 'going to' expresses plans or intentions, and Present Continuous is used for fixed arrangements.",
+  "description_tr": "Gelecek zamanlar, gelecekte olacak olayları anlatmak için kullanılır. 'Will' kararlar veya tahminler için, 'going to' planlar veya niyetler için, Present Continuous ise kesin planlar için kullanılır.",
+  "objectives": [
+    "Learn affirmative, negative, and question forms of all future tenses.",
+    "Differentiate 'will', 'going to', and Present Continuous for future.",
+    "Use time expressions like tomorrow, next week, soon, in 5 minutes.",
+    "Practice short answers.",
+    "Understand common mistakes and how to correct them."
+  ],
+  "forms": {
+    "will": {
+      "pattern": "Subject + will + base verb",
+      "examples": [
+        { "en": "I will call you tomorrow.", "tr": "Seni yarın arayacağım." },
+        { "en": "She will be happy.", "tr": "O mutlu olacak." }
+      ],
+      "negative": "Subject + will not (won't) + base verb",
+      "questions": "Will + subject + base verb?",
+      "short_answers": [
+        { "q": "Will you come?", "yes": "Yes, I will.", "no": "No, I won’t." }
+      ]
+    },
+    "going_to": {
+      "pattern": "Subject + am/is/are + going to + base verb",
+      "examples": [
+        { "en": "I am going to start a new course.", "tr": "Yeni bir kursa başlayacağım." },
+        { "en": "They are going to travel next month.", "tr": "Onlar gelecek ay seyahat edecekler." }
+      ],
+      "negative": "Subject + am/is/are + not + going to + base verb",
+      "questions": "Am/Is/Are + subject + going to + base verb?",
+      "short_answers": [
+        { "q": "Are you going to study?", "yes": "Yes, I am.", "no": "No, I'm not." }
+      ]
+    },
+    "present_continuous_future": {
+      "pattern": "Subject + am/is/are + verb-ing",
+      "examples": [
+        { "en": "I am meeting my friend tomorrow.", "tr": "Yarın arkadaşım ile buluşuyorum." },
+        { "en": "She is leaving at 6 pm.", "tr": "O saat 6’da ayrılıyor." }
+      ],
+      "negative": "Subject + am/is/are + not + verb-ing",
+      "questions": "Am/Is/Are + subject + verb-ing?",
+      "short_answers": [
+        { "q": "Are you coming?", "yes": "Yes, I am.", "no": "No, I'm not." }
+      ]
+    }
+  },
+  "usage": {
+    "will": [
+      { "en": "I think it will rain tomorrow.", "tr": "Sanırım yarın yağmur yağacak." },
+      { "en": "I will help you with your homework.", "tr": "Ödevine yardım edeceğim." }
+    ],
+    "going_to": [
+      { "en": "I am going to visit my grandparents next week.", "tr": "Gelecek hafta büyükannemi ziyaret edeceğim." },
+      { "en": "She is going to buy a new car.", "tr": "Yeni bir araba alacak." }
+    ],
+    "present_continuous_future": [
+      { "en": "We are flying to Paris tomorrow morning.", "tr": "Yarın sabah Paris’e uçuyoruz." },
+      { "en": "He is having a meeting at 3 pm.", "tr": "Saat 3’te toplantısı var." }
+    ]
+  },
+  "time_expressions": [
+    "tomorrow",
+    "next week/month/year",
+    "soon",
+    "in 5 minutes",
+    "later",
+    "by the time"
+  ],
+  "common_mistakes": [
+    { "wrong": "I going to travel next week.", "right": "I am going to travel next week.", "tr_note": "Be fiili unutulmamalı." },
+    { "wrong": "Will she goes to school?", "right": "Will she go to school?", "tr_note": "'Will' ile fiil yalın kalır." },
+    { "wrong": "I am meet my friend tomorrow.", "right": "I am meeting my friend tomorrow.", "tr_note": "Present Continuous yapısı için verb-ing gerekir." }
+  ],
+  "examples": [
+    { "en": "I will see you later.", "tr": "Seni sonra göreceğim." },
+    { "en": "She is going to start a new job.", "tr": "O yeni bir işe başlayacak." },
+    { "en": "We are having a party next Friday.", "tr": "Gelecek Cuma bir parti veriyoruz." }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "Making plans",
+      "lines": [
+        { "en": "A: Are you going to attend the seminar?", "tr": "Seminere katılacak mısın?" },
+        { "en": "B: Yes, I am.", "tr": "Evet, katılacağım." }
+      ]
+    },
+    {
+      "context": "Prediction",
+      "lines": [
+        { "en": "A: I think it will snow tomorrow.", "tr": "Sanırım yarın kar yağacak." },
+        { "en": "B: Really? I hope not.", "tr": "Gerçekten mi? Umarım yağmaz." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları uygun gelecek zaman formu ile doldurun.",
+      "items": [
+        { "q": "I ___ (call) you later. (will)", "a": "will call" },
+        { "q": "She ___ (buy) a new phone. (going to)", "a": "is going to buy" },
+        { "q": "We ___ (meet) them tomorrow. (Present Continuous)", "a": "are meeting" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He will attend the meeting.", "a": "He won’t attend the meeting." },
+        { "q": "I am going to visit London.", "a": "I am not going to visit London." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi yapın.",
+      "items": [
+        { "q": "you / help / me / with homework / (will)", "a": "Will you help me with homework?" },
+        { "q": "she / join / the party / (going to)", "a": "Is she going to join the party?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (will/won't) finish this task tomorrow.", "a": "will" },
+      { "q": "They ___ (are/aren't) going to travel next month.", "a": "are" },
+      { "q": "She ___ (is/isn't) meeting her friend tonight.", "a": "is" },
+      { "q": "___ you help me? (Will/Going to)", "a": "Will" },
+      { "q": "He ___ (is/going to) start a new project.", "a": "is going to" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "b1",
+    "b2",
+    "future-tenses",
+    "will",
+    "going-to",
+    "present-continuous",
+    "grammar"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 50,
+    "recommended_prerequisites": ["Present Simple", "Present Continuous", "Past Tenses"],
+    "next_topics": ["Future Continuous", "Future Perfect"]
+  }
+},
+{
+  "id": "U011",
+  "level": "B1-B2",
+  "difficulty": "orta-ileri",
+  "topic": "Future Continuous & Future Perfect Tenses",
+  "description_en": "Future Continuous describes ongoing actions at a specific future time, while Future Perfect shows that an action will be completed before a certain future time.",
+  "description_tr": "Future Continuous, belirli bir gelecekte devam eden eylemleri gösterir; Future Perfect ise bir eylemin belirli bir zamana kadar tamamlanacağını ifade eder.",
+  "objectives": [
+    "Understand forms of Future Continuous and Future Perfect.",
+    "Learn affirmative, negative, and question structures.",
+    "Use time expressions like at 8 pm, by next week, in two hours.",
+    "Distinguish between continuous and perfect future usage.",
+    "Practice short answers and predictions."
+  ],
+  "forms": {
+    "future_continuous": {
+      "pattern": "Subject + will + be + verb-ing",
+      "examples": [
+        { "en": "I will be studying at 8 pm.", "tr": "Saat 8’de ders çalışıyor olacağım." },
+        { "en": "They will be traveling next week.", "tr": "Onlar gelecek hafta seyahat ediyor olacaklar." }
+      ],
+      "negative": "Subject + will + not + be + verb-ing",
+      "questions": "Will + subject + be + verb-ing?",
+      "short_answers": [
+        { "q": "Will you be watching TV?", "yes": "Yes, I will.", "no": "No, I won’t." }
+      ]
+    },
+    "future_perfect": {
+      "pattern": "Subject + will + have + past participle",
+      "examples": [
+        { "en": "I will have finished my homework by 7 pm.", "tr": "Saat 7’ye kadar ödevimi bitirmiş olacağım." },
+        { "en": "She will have left before we arrive.", "tr": "Biz gelmeden önce gitmiş olacak." }
+      ],
+      "negative": "Subject + will + not + have + past participle",
+      "questions": "Will + subject + have + past participle?",
+      "short_answers": [
+        { "q": "Will you have completed the project?", "yes": "Yes, I will.", "no": "No, I won’t." }
+      ]
+    }
+  },
+  "usage": {
+    "future_continuous": [
+      { "en": "I will be working at 9 am tomorrow.", "tr": "Yarın saat 9’da çalışıyor olacağım." },
+      { "en": "They will be waiting for us at the station.", "tr": "Onlar istasyonda bizi bekliyor olacaklar." }
+    ],
+    "future_perfect": [
+      { "en": "By next week, I will have completed the course.", "tr": "Gelecek haftaya kadar kursu tamamlamış olacağım." },
+      { "en": "He will have left by the time you arrive.", "tr": "Sen geldiğinde gitmiş olacak." }
+    ]
+  },
+  "time_expressions": [
+    "at 8 pm",
+    "by next week",
+    "in two hours",
+    "before Friday",
+    "by the time"
+  ],
+  "common_mistakes": [
+    { "wrong": "I will be study at 8 pm.", "right": "I will be studying at 8 pm.", "tr_note": "Future Continuous için verb-ing gerekir." },
+    { "wrong": "She will have went home.", "right": "She will have gone home.", "tr_note": "Future Perfect için past participle kullanılır." },
+    { "wrong": "Will he finish tomorrow?", "right": "Will he have finished by tomorrow?", "tr_note": "Tamamlanmış eylem için Future Perfect kullanılır." }
+  ],
+  "examples": [
+    { "en": "I will be reading at 7 pm.", "tr": "Saat 7’de kitap okuyor olacağım." },
+    { "en": "By the time you arrive, they will have eaten.", "tr": "Sen geldiğinde yemeklerini yemiş olacaklar." },
+    { "en": "She will be working late tonight.", "tr": "O bu gece geç saatlere kadar çalışıyor olacak." },
+    { "en": "I will have finished this task before noon.", "tr": "Öğlene kadar bu işi bitirmiş olacağım." }
+  ],
+  "mini_dialogues": [
+    {
+      "context": "Future Continuous",
+      "lines": [
+        { "en": "A: What will you be doing at 9 pm?", "tr": "Saat 9’da ne yapıyor olacaksın?" },
+        { "en": "B: I will be studying.", "tr": "Ders çalışıyor olacağım." }
+      ]
+    },
+    {
+      "context": "Future Perfect",
+      "lines": [
+        { "en": "A: Will she have finished the project by Friday?", "tr": "Cuma’ya kadar projeyi bitirmiş olacak mı?" },
+        { "en": "B: Yes, she will.", "tr": "Evet, bitirmiş olacak." }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları uygun gelecekteki form ile doldurun.",
+      "items": [
+        { "q": "I ___ (study) at 8 pm tomorrow. (Future Continuous)", "a": "will be studying" },
+        { "q": "They ___ (finish) the work by next week. (Future Perfect)", "a": "will have finished" },
+        { "q": "She ___ (wait) for us at the station. (Future Continuous)", "a": "will be waiting" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "I will be working late tonight.", "a": "I won’t be working late tonight." },
+        { "q": "He will have completed the report by 5 pm.", "a": "He won’t have completed the report by 5 pm." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi oluşturun.",
+      "items": [
+        { "q": "she / finish / the task / by tomorrow", "a": "Will she have finished the task by tomorrow?" },
+        { "q": "you / study / at 10 pm / tonight", "a": "Will you be studying at 10 pm tonight?" }
+      ]
+    }
+  ],
+  "mini_test": {
+    "questions": [
+      { "q": "I ___ (will be/will) watching TV at 9 pm.", "a": "will be" },
+      { "q": "They ___ (will have/will) completed the project by Friday.", "a": "will have" },
+      { "q": "She ___ (will be/will) cooking dinner at 7 pm.", "a": "will be" },
+      { "q": "By next month, I ___ (will have/will) finished my course.", "a": "will have" },
+      { "q": "___ he be waiting at the station at 5?", "a": "Will" }
+    ],
+    "score_note_tr": "Her doğru cevap 1 puan, toplam 5 puan."
+  },
+  "tags": [
+    "b1",
+    "b2",
+    "future-continuous",
+    "future-perfect",
+    "grammar",
+    "will",
+    "future"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 50,
+    "recommended_prerequisites": ["Future Simple", "Present Continuous", "Past Tenses"],
+    "next_topics": ["Future Perfect Continuous", "Mixed Future Exercises"]
+  }
+}
+,{
+  "id": "U012",
+  "level": "B2",
+  "difficulty": "orta-ileri",
+  "topic": "Future Perfect Continuous Tense",
+  "description_en": "The Future Perfect Continuous tense describes actions that will have been ongoing for a period of time before a certain point in the future.",
+  "description_tr": "Future Perfect Continuous, belirli bir gelecekteki zamana kadar devam eden eylemleri ifade eder.",
+  "objectives": [
+    "Understand the form: Subject + will + have + been + verb-ing",
+    "Learn affirmative, negative, and question structures",
+    "Use time expressions like for 2 hours, since 5 pm, by tomorrow",
+    "Distinguish from Future Continuous and Future Perfect",
+    "Practice making predictions and describing ongoing future actions"
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + will + have + been + verb-ing",
+      "examples": [
+        { "en": "I will have been studying for 3 hours by 8 pm.", "tr": "Saat 8’e kadar 3 saattir ders çalışıyor olacağım." },
+        { "en": "She will have been working here for 5 years next month.", "tr": "Gelecek ay 5 yıldır burada çalışıyor olacak." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + will + not + have + been + verb-ing",
+      "examples": [
+        { "en": "I won’t have been waiting long.", "tr": "Uzun süre bekliyor olmayacağım." },
+        { "en": "They won’t have been living here for years.", "tr": "Yıllardır burada yaşamıyor olacaklar." }
+      ]
+    },
+    "questions": {
+      "pattern": "Will + subject + have + been + verb-ing?",
+      "examples": [
+        { "en": "Will you have been studying for 2 hours by 7 pm?", "tr": "Saat 7’ye kadar 2 saattir ders çalışıyor olacak mısın?" },
+        { "en": "Will she have been working here long?", "tr": "Burada uzun süredir çalışıyor olacak mı?" }
+      ],
+      "short_answers": [
+        { "q": "Will they have been traveling for a week by Monday?", "yes": "Yes, they will.", "no": "No, they won’t." }
+      ]
+    }
+  },
+  "usage": {
+    "ongoing_future_actions": [
+      { "en": "By tomorrow, I will have been studying for 5 hours.", "tr": "Yarın itibarıyla 5 saattir ders çalışıyor olacağım." },
+      { "en": "Next month, she will have been teaching here for 10 years.", "tr": "Gelecek ay 10 yıldır burada ders veriyor olacak." }
+    ]
+  },
+  "time_expressions": [
+    "for 2 hours",
+    "since 5 pm",
+    "by tomorrow",
+    "by next week",
+    "for years"
+  ],
+  "common_mistakes": [
+    { "wrong": "I will have studying for 3 hours.", "right": "I will have been studying for 3 hours.", "tr_note": "'have been + verb-ing' kullanılmalı." },
+    { "wrong": "Will you studying?", "right": "Will you have been studying?", "tr_note": "Soru yapısında 'have been' gerekir." }
+  ],
+  "examples": [
+    { "en": "By 6 pm, I will have been working for 8 hours.", "tr": "Saat 6’ya kadar 8 saattir çalışıyor olacağım." },
+    { "en": "She will have been practicing piano for 2 hours by 5 pm.", "tr": "Saat 5’e kadar 2 saattir piyano çalışıyor olacak." }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları uygun Future Perfect Continuous form ile doldurun.",
+      "items": [
+        { "q": "By 10 pm, I ___ (study) for 4 hours.", "a": "will have been studying" },
+        { "q": "Next year, she ___ (work) here for 7 years.", "a": "will have been working" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "I will have been waiting for an hour.", "a": "I won’t have been waiting for an hour." },
+        { "q": "They will have been living here for 5 years.", "a": "They won’t have been living here for 5 years." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi oluşturun.",
+      "items": [
+        { "q": "he / study / for 2 hours / by 6 pm", "a": "Will he have been studying for 2 hours by 6 pm?" },
+        { "q": "you / work / here / for 3 months / by next week", "a": "Will you have been working here for 3 months by next week?" }
+      ]
+    }
+  ],
+  "tags": [
+    "b2",
+    "future-perfect-continuous",
+    "grammar",
+    "will",
+    "future",
+    "continuous"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 40,
+    "recommended_prerequisites": ["Future Perfect", "Future Continuous"],
+    "next_topics": ["Future Tenses Comparison", "Mixed Future Exercises"]
+  }
+},{
+  "id": "U013",
+  "level": "B2",
+  "difficulty": "orta-ileri",
+  "topic": "Idioms with Break",
+  "description_en": "Common English idioms using 'break'.",
+  "description_tr": "'Break' ile kullanılan İngilizce deyimler.",
+  "objectives": [
+    "Understand the form and meaning of idioms with 'break'",
+    "Use idioms correctly in affirmative, negative, and question forms",
+    "Distinguish between literal and figurative meanings",
+    "Practice making predictions and describing situations using idioms"
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + idiom",
+      "examples": [
+        { "en": "He broke the ice by telling a joke.", "tr": "Bir şaka anlatarak buzları kırdı." },
+        { "en": "She broke a leg before the performance.", "tr": "Performanstan önce şans diledi (iyi şanslar)."}
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + did not + idiom",
+      "examples": [
+        { "en": "He didn’t break the habit.", "tr": "Alışkanlığı bozmadı." },
+        { "en": "She didn’t break the rules.", "tr": "Kuralları çiğnemedi." }
+      ]
+    },
+    "questions": {
+      "pattern": "Did + subject + idiom?",
+      "examples": [
+        { "en": "Did he break the ice at the meeting?", "tr": "Toplantıda buzları kırdı mı?" },
+        { "en": "Did she break a leg before the show?", "tr": "Gösteriden önce şans diledi mi?" }
+      ],
+      "short_answers": [
+        { "q": "Did they break the rules during the game?", "yes": "Yes, they did.", "no": "No, they didn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "examples": [
+      { "en": "Break the ice – start a conversation", "tr": "Buzları kırmak, sohbet başlatmak" },
+      { "en": "Break a leg – wish someone good luck", "tr": "Şans dilemek" },
+      { "en": "Break the habit – stop a bad habit", "tr": "Alışkanlığı bırakmak" },
+      { "en": "Break the news – tell important news", "tr": "Önemli bir haberi vermek" }
+    ]
+  },
+  "time_expressions": [
+    "before the show",
+    "during the meeting",
+    "last week",
+    "for years",
+    "recently"
+  ],
+  "common_mistakes": [
+    { "wrong": "He break the ice.", "right": "He broke the ice.", "tr_note": "Geçmiş zaman kullanımı doğru değil." },
+    { "wrong": "Did she break a leg?", "right": "Did she break a leg before the show?", "tr_note": "Zaman ifadesi eksik." }
+  ],
+  "examples": [
+    { "en": "By the end of the meeting, he had broken the ice with everyone.", "tr": "Toplantı sonunda herkesle buzları kırmıştı." },
+    { "en": "She broke a leg before her audition.", "tr": "Seçmeden önce iyi şanslar diledi." }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları uygun idiom ile doldurun.",
+      "items": [
+        { "q": "He ___ (break the ice) at the party.", "a": "broke the ice" },
+        { "q": "She ___ (break a leg) before the show.", "a": "broke a leg" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "He broke the habit of smoking.", "a": "He didn’t break the habit of smoking." },
+        { "q": "She broke the news to her friend.", "a": "She didn’t break the news to her friend." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi oluşturun.",
+      "items": [
+        { "q": "they / break the rules / during the exam", "a": "Did they break the rules during the exam?" },
+        { "q": "he / break the ice / at the meeting", "a": "Did he break the ice at the meeting?" }
+      ]
+    }
+  ],
+  "tags": [
+    "b2",
+    "idioms",
+    "break",
+    "grammar",
+    "vocabulary"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 40,
+    "recommended_prerequisites": ["Basic Idioms"],
+    "next_topics": ["Idioms with Get", "Idioms with Take"]
+  }
+},
+
+  {
+    "id": "U015",
+    "level": "B2",
+    "difficulty": "orta-ileri",
+    "topic": "Phrasal Verbs – Take",
+    "description_en": "Learn common phrasal verbs with 'take' and their meanings.",
+    "description_tr": "'Take' ile kullanılan yaygın phrasal verb’leri ve anlamlarını öğrenin.",
+    "objectives": [
+      "Understand meanings of phrasal verbs with 'take'",
+      "Use them in sentences",
+      "Distinguish between literal and figurative uses",
+      "Practice forming affirmative, negative, and question sentences"
+    ],
+    "forms": {
+      "affirmative": {
+        "pattern": "Subject + take + particle + object",
+        "examples": [
+          { "en": "I took off my jacket.", "tr": "Ceketimi çıkardım." },
+          { "en": "She took up painting last year.", "tr": "Geçen yıl resim yapmaya başladı." }
+        ]
+      },
+      "negative": {
+        "pattern": "Subject + do/does + not + take + particle + object",
+        "examples": [
+          { "en": "I didn’t take off my shoes.", "tr": "Ayakkabılarımı çıkarmadım." },
+          { "en": "He doesn’t take after his father.", "tr": "Babaya çekmez." }
+        ]
+      },
+      "questions": {
+        "pattern": "Do/Does + subject + take + particle + object?",
+        "examples": [
+          { "en": "Did you take up yoga last year?", "tr": "Geçen yıl yoga yapmaya başladın mı?" },
+          { "en": "Does she take after her mother?", "tr": "Annesine çekiyor mu?" }
+        ],
+        "short_answers": [
+          { "q": "Did they take off their jackets?", "yes": "Yes, they did.", "no": "No, they didn’t." }
+        ]
+      }
+    },
+    "usage": {
+      "examples": [
+        { "en": "Take after someone – resemble someone", "tr": "Birine çekmek, benzemek" },
+        { "en": "Take over – assume control", "tr": "Kontrolü devralmak" },
+        { "en": "Take up – start a hobby or activity", "tr": "Bir hobi veya aktiviteye başlamak" },
+        { "en": "Take off – remove clothing or depart", "tr": "Giysiyi çıkarmak veya havalanmak" }
+      ]
+    },
+    "time_expressions": [
+      "last year",
+      "before the meeting",
+      "recently",
+      "for months",
+      "during the summer"
+    ],
+    "common_mistakes": [
+      { "wrong": "I took up the coat.", "right": "I took off the coat.", "tr_note": "Yanlış phrasal verb kullanıldı." },
+      { "wrong": "Does she take up her mother?", "right": "Does she take after her mother?", "tr_note": "Doğru phrasal verb 'take after' olmalı." }
+    ],
+    "examples": [
+      { "en": "She takes after her grandmother in looks.", "tr": "Dış görünüş olarak büyükannesine çekiyor." },
+      { "en": "He took up playing guitar last summer.", "tr": "Geçen yaz gitar çalmaya başladı." }
+    ],
+    "practice": [
+      {
+        "type": "fill_in_the_blank",
+        "instructions_tr": "Boşluğu uygun 'take' phrasal verb ile doldurun.",
+        "items": [
+          { "q": "She ___ (take up) yoga last month.", "a": "took up" },
+          { "q": "He ___ (take off) his shoes before entering.", "a": "took off" }
+        ]
+      },
+      {
+        "type": "make_negative",
+        "instructions_tr": "Olumsuz yapın.",
+        "items": [
+          { "q": "She took up painting.", "a": "She didn’t take up painting." },
+          { "q": "He took off his hat.", "a": "He didn’t take off his hat." }
+        ]
+      },
+      {
+        "type": "make_question",
+        "instructions_tr": "Soru cümlesi oluşturun.",
+        "items": [
+          { "q": "you / take after / your father", "a": "Do you take after your father?" },
+          { "q": "she / take up / tennis", "a": "Did she take up tennis?" }
+        ]
+      }
+    ],
+    "tags": [
+      "b2",
+      "phrasal-verbs",
+      "take",
+      "grammar",
+      "vocabulary"
+    ],
+    "metadata": {
+      "estimated_time_minutes": 40,
+      "recommended_prerequisites": ["Basic Phrasal Verbs"],
+      "next_topics": ["Phrasal Verbs – Get", "Idioms with Take"]
+    }
+  },
+{
+  "id": "U016",
+  "level": "B2",
+  "difficulty": "orta-ileri",
+  "topic": "Collocations with Make",
+  "description_en": "Learn common English collocations using the verb 'make'.",
+  "description_tr": "'Make' fiili ile kullanılan yaygın İngilizce collocations’ları öğrenin.",
+  "objectives": [
+    "Understand common collocations with 'make'",
+    "Use collocations correctly in affirmative, negative, and question forms",
+    "Distinguish between literal and figurative meanings",
+    "Practice forming sentences using collocations with 'make'"
+  ],
+  "forms": {
+    "affirmative": {
+      "pattern": "Subject + make + noun/phrase",
+      "examples": [
+        { "en": "She made a mistake in the report.", "tr": "Raporda bir hata yaptı." },
+        { "en": "He made a decision after long consideration.", "tr": "Uzun düşünmeden sonra karar verdi." }
+      ]
+    },
+    "negative": {
+      "pattern": "Subject + did not + make + noun/phrase",
+      "examples": [
+        { "en": "I didn’t make any promises.", "tr": "Hiç söz vermedim." },
+        { "en": "They didn’t make a plan for the trip.", "tr": "Seyahat için bir plan yapmadılar." }
+      ]
+    },
+    "questions": {
+      "pattern": "Did + subject + make + noun/phrase?",
+      "examples": [
+        { "en": "Did she make a mistake in the exam?", "tr": "Sınavda hata yaptı mı?" },
+        { "en": "Did he make a decision already?", "tr": "Zaten karar verdi mi?" }
+      ],
+      "short_answers": [
+        { "q": "Did they make a plan for the project?", "yes": "Yes, they did.", "no": "No, they didn’t." }
+      ]
+    }
+  },
+  "usage": {
+    "examples": [
+      { "en": "Make a mistake – commit an error", "tr": "Hata yapmak" },
+      { "en": "Make a decision – choose or decide", "tr": "Karar vermek" },
+      { "en": "Make a plan – organize or prepare something", "tr": "Plan yapmak" },
+      { "en": "Make an effort – try hard", "tr": "Çaba göstermek" }
+    ]
+  },
+  "time_expressions": [
+    "during the meeting",
+    "last week",
+    "recently",
+    "for years",
+    "before the exam"
+  ],
+  "common_mistakes": [
+    { "wrong": "I make a decision yesterday.", "right": "I made a decision yesterday.", "tr_note": "Geçmiş zaman kullanımı doğru değil." },
+    { "wrong": "Did she make mistake?", "right": "Did she make a mistake?", "tr_note": "Nesne eksik, 'a' kullanılmalı." }
+  ],
+  "examples": [
+    { "en": "By the end of the week, he had made several decisions.", "tr": "Hafta sonuna kadar birkaç karar vermişti." },
+    { "en": "She made an effort to finish the project on time.", "tr": "Projeyi zamanında bitirmek için çaba gösterdi." }
+  ],
+  "practice": [
+    {
+      "type": "fill_in_the_blank",
+      "instructions_tr": "Boşlukları uygun 'make' collocation ile doldurun.",
+      "items": [
+        { "q": "He ___ (make a plan) for the weekend.", "a": "made a plan" },
+        { "q": "She ___ (make a mistake) in her homework.", "a": "made a mistake" }
+      ]
+    },
+    {
+      "type": "make_negative",
+      "instructions_tr": "Olumsuz yapın.",
+      "items": [
+        { "q": "I made a decision.", "a": "I didn’t make a decision." },
+        { "q": "They made an effort.", "a": "They didn’t make an effort." }
+      ]
+    },
+    {
+      "type": "make_question",
+      "instructions_tr": "Soru cümlesi oluşturun.",
+      "items": [
+        { "q": "she / make a mistake / in the exam", "a": "Did she make a mistake in the exam?" },
+        { "q": "he / make a plan / for the party", "a": "Did he make a plan for the party?" }
+      ]
+    }
+  ],
+  "tags": [
+    "b2",
+    "collocations",
+    "make",
+    "grammar",
+    "vocabulary"
+  ],
+  "metadata": {
+    "estimated_time_minutes": 40,
+    "recommended_prerequisites": ["Basic Collocations"],
+    "next_topics": ["Collocations with Do", "Idioms with Make"]
+  }
+}
+
+
+
+
+
+
+
+
+
+]

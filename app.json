@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "SözHane",
+    "slug": "wordly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Ampeross-Qetto-Icon-developer.256.png",
+    "userInterfaceStyle": "light",
+"newArchEnabled": true,
+"splash": {
+  "backgroundColor": "#ffffff",
+  "resizeMode": "contain"
+},
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Ampeross-Qetto-Icon-developer.256.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.serdal75.wordly"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "acb7b4e5-8875-44fc-a2eb-a170b3ac0809"
+      }
+    }
+  }
+}

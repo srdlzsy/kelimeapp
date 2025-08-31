@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 487,
+    "word": "department",
+    "meaning": "departman",
+    "sentence": "Rarely has the department been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "business"
+  },
+  {
+    "id": 102,
+    "word": "beige",
+    "meaning": "bej",
+    "sentence": "That beige is big.",
+    "category": "colors"
+  },
+  {
+    "id": 48,
+    "word": "watermelon",
+    "meaning": "karpuz",
+    "sentence": "Despite its ordinary appearance, the watermelon carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "food"
+  },
+  {
+    "id": 331,
+    "word": "socks",
+    "meaning": "çorap",
+    "sentence": "The socks is here.",
+    "category": "clothing"
+  },
+  {
+    "id": 101,
+    "word": "silver",
+    "meaning": "gümüş rengi",
+    "sentence": "My silver is red.",
+    "category": "colors"
+  },
+  {
+    "id": 383,
+    "word": "cycling",
+    "meaning": "bisiklet",
+    "sentence": "If one reflects deeply, the cycling embodies resilience and adaptation across countless generations.",
+    "category": "sports"
+  },
+  {
+    "id": 225,
+    "word": "country",
+    "meaning": "ülke",
+    "sentence": "In ancient cultures, the country was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "places"
+  },
+  {
+    "id": 269,
+    "word": "morning",
+    "meaning": "sabah",
+    "sentence": "The morning is on the table.",
+    "category": "time"
+  },
+  {
+    "id": 16,
+    "word": "lion",
+    "meaning": "aslan",
+    "sentence": "The lion, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "animals"
+  },
+  {
+    "id": 130,
+    "word": "scientist",
+    "meaning": "bilim insanı",
+    "sentence": "The scientist is small.",
+    "category": "jobs"
+  },
+  {
+    "id": 227,
+    "word": "apartment",
+    "meaning": "daire",
+    "sentence": "I like the apartment.",
+    "category": "places"
+  },
+  {
+    "id": 15,
+    "word": "bear",
+    "meaning": "ayı",
+    "sentence": "The bear is here.",
+    "category": "animals"
+  },
+  {
+    "id": 47,
+    "word": "pear",
+    "meaning": "armut",
+    "sentence": "The pear, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "food"
+  },
+  {
+    "id": 401,
+    "word": "computer",
+    "meaning": "bilgisayar",
+    "sentence": "That computer is big.",
+    "category": "science"
+  },
+  {
+    "id": 498,
+    "word": "easily",
+    "meaning": "kolayca",
+    "sentence": "She has a easily.",
+    "category": "adverbs"
+  },
+  {
+    "id": 374,
+    "word": "moon",
+    "meaning": "ay",
+    "sentence": "The moon, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "nature"
+  },
+  {
+    "id": 259,
+    "word": "day",
+    "meaning": "gün",
+    "sentence": "Rarely has the day been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "time"
+  },
+  {
+    "id": 253,
+    "word": "motorcycle",
+    "meaning": "motosiklet",
+    "sentence": "That motorcycle is big.",
+    "category": "transport"
+  },
+  {
+    "id": 398,
+    "word": "concert",
+    "meaning": "konser",
+    "sentence": "The concert is small.",
+    "category": "music"
+  },
+  {
+    "id": 319,
+    "word": "blanket",
+    "meaning": "battaniye",
+    "sentence": "The blanket, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "household"
+  },
+  {
+    "id": 9,
+    "word": "chicken",
+    "meaning": "tavuk",
+    "sentence": "She has a chicken.",
+    "category": "animals"
+  },
+  {
+    "id": 4,
+    "word": "fish",
+    "meaning": "balık",
+    "sentence": "The fish is very nice.",
+    "category": "animals"
+  },
+  {
+    "id": 240,
+    "word": "library",
+    "meaning": "kütüphane",
+    "sentence": "The library, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "places"
+  },
+  {
+    "id": 290,
+    "word": "joy",
+    "meaning": "sevinç",
+    "sentence": "The joy is small.",
+    "category": "emotions"
+  },
+  {
+    "id": 332,
+    "word": "hat",
+    "meaning": "şapka",
+    "sentence": "The hat, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "clothing"
+  },
+  {
+    "id": 106,
+    "word": "doctor",
+    "meaning": "doktor",
+    "sentence": "The doctor is very nice.",
+    "category": "jobs"
+  },
+  {
+    "id": 490,
+    "word": "quickly",
+    "meaning": "hızla",
+    "sentence": "I like the quickly.",
+    "category": "adverbs"
+  },
+  {
+    "id": 448,
+    "word": "map",
+    "meaning": "harita",
+    "sentence": "The map, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "travel"
+  },
+  {
+    "id": 287,
+    "word": "rainbow",
+    "meaning": "gökkuşağı",
+    "sentence": "The rainbow is small.",
+    "category": "weather"
+  },
+  {
+    "id": 83,
+    "word": "tea",
+    "meaning": "çay",
+    "sentence": "The presence of the tea in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "food"
+  },
+  {
+    "id": 182,
+    "word": "build",
+    "meaning": "inşa etmek",
+    "sentence": "The build is very nice.",
+    "category": "verbs"
+  },
+  {
+    "id": 31,
+    "word": "whale",
+    "meaning": "balina",
+    "sentence": "This is a whale.",
+    "category": "animals"
+  },
+  {
+    "id": 425,
+    "word": "community",
+    "meaning": "topluluk",
+    "sentence": "The community, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "society"
+  },
+  {
+    "id": 346,
+    "word": "tooth",
+    "meaning": "diş",
+    "sentence": "The tooth is here.",
+    "category": "body"
+  },
+  {
+    "id": 435,
+    "word": "freedom",
+    "meaning": "özgürlük",
+    "sentence": "The freedom is on the table.",
+    "category": "society"
+  },
+  {
+    "id": 440,
+    "word": "journey",
+    "meaning": "seyahat",
+    "sentence": "In ancient cultures, the journey was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "travel"
+  },
+  {
+    "id": 203,
+    "word": "happy",
+    "meaning": "mutlu",
+    "sentence": "The happy, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "adjectives"
+  },
+  {
+    "id": 378,
+    "word": "basketball",
+    "meaning": "basketbol",
+    "sentence": "If one reflects deeply, the basketball embodies resilience and adaptation across countless generations.",
+    "category": "sports"
+  },
+  {
+    "id": 68,
+    "word": "olive",
+    "meaning": "zeytin",
+    "sentence": "This is a olive.",
+    "category": "food"
+  },
+  {
+    "id": 394,
+    "word": "piano",
+    "meaning": "piyano",
+    "sentence": "The piano is very nice.",
+    "category": "music"
+  },
+  {
+    "id": 273,
+    "word": "now",
+    "meaning": "şimdi",
+    "sentence": "The now is very nice.",
+    "category": "time"
+  },
+  {
+    "id": 202,
+    "word": "cool",
+    "meaning": "serin",
+    "sentence": "She has a cool.",
+    "category": "adjectives"
+  },
+  {
+    "id": 423,
+    "word": "accuracy",
+    "meaning": "doğruluk",
+    "sentence": "I saw the accuracy yesterday.",
+    "category": "science"
+  },
+  {
+    "id": 177,
+    "word": "feel",
+    "meaning": "hissetmek",
+    "sentence": "Far from being mundane, the feel encapsulates the very essence of transformation and continuity.",
+    "category": "verbs"
+  },
+  {
+    "id": 17,
+    "word": "tiger",
+    "meaning": "kaplan",
+    "sentence": "I saw the tiger yesterday.",
+    "category": "animals"
+  },
+  {
+    "id": 308,
+    "word": "wall",
+    "meaning": "duvar",
+    "sentence": "By analyzing the wall, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "household"
+  },
+  {
+    "id": 349,
+    "word": "heart",
+    "meaning": "kalp",
+    "sentence": "I saw the heart yesterday.",
+    "category": "body"
+  },
+  {
+    "id": 294,
+    "word": "disgust",
+    "meaning": "tiksinti",
+    "sentence": "I like the disgust.",
+    "category": "emotions"
+  },
+  {
+    "id": 180,
+    "word": "find",
+    "meaning": "bulmak",
+    "sentence": "If one reflects deeply, the find embodies resilience and adaptation across countless generations.",
+    "category": "verbs"
+  },
+  {
+    "id": 451,
+    "word": "customs",
+    "meaning": "gümrük",
+    "sentence": "That customs is big.",
+    "category": "travel"
+  },
+  {
+    "id": 277,
+    "word": "sometimes",
+    "meaning": "bazen",
+    "sentence": "The sometimes is here.",
+    "category": "time"
+  },
+  {
+    "id": 256,
+    "word": "taxi",
+    "meaning": "taksi",
+    "sentence": "My taxi is red.",
+    "category": "transport"
+  },
+  {
+    "id": 187,
+    "word": "young",
+    "meaning": "genç",
+    "sentence": "In ancient cultures, the young was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "adjectives"
+  },
+  {
+    "id": 132,
+    "word": "designer",
+    "meaning": "tasarımcı",
+    "sentence": "The designer, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "jobs"
+  },
+  {
+    "id": 169,
+    "word": "learn",
+    "meaning": "öğrenmek",
+    "sentence": "This is a learn.",
+    "category": "verbs"
+  },
+  {
+    "id": 439,
+    "word": "infrastructure",
+    "meaning": "altyapı",
+    "sentence": "My infrastructure is red.",
+    "category": "society"
+  },
+  {
+    "id": 144,
+    "word": "drink",
+    "meaning": "içmek",
+    "sentence": "She has a drink.",
+    "category": "verbs"
+  },
+  {
+    "id": 27,
+    "word": "eagle",
+    "meaning": "kartal",
+    "sentence": "The eagle, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "animals"
+  },
+  {
+    "id": 152,
+    "word": "close",
+    "meaning": "kapatmak",
+    "sentence": "The close is small.",
+    "category": "verbs"
+  },
+  {
+    "id": 179,
+    "word": "use",
+    "meaning": "kullanmak",
+    "sentence": "She has a use.",
+    "category": "verbs"
+  },
+  {
+    "id": 24,
+    "word": "ant",
+    "meaning": "karınca",
+    "sentence": "The ant, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "animals"
+  },
+  {
+    "id": 488,
+    "word": "supplier",
+    "meaning": "tedarikçi",
+    "sentence": "The supplier is very nice.",
+    "category": "business"
+  },
+  {
+    "id": 174,
+    "word": "like",
+    "meaning": "sevmek",
+    "sentence": "The like, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "verbs"
+  },
+  {
+    "id": 410,
+    "word": "artificial intelligence",
+    "meaning": "yapay zekâ",
+    "sentence": "The artificial intelligence, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "science"
+  },
+  {
+    "id": 127,
+    "word": "carpenter",
+    "meaning": "marangoz",
+    "sentence": "My carpenter is red.",
+    "category": "jobs"
+  },
+  {
+    "id": 263,
+    "word": "hour",
+    "meaning": "saat",
+    "sentence": "Despite its ordinary appearance, the hour carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "time"
+  },
+  {
+    "id": 320,
+    "word": "sheet",
+    "meaning": "çarşaf",
+    "sentence": "My sheet is red.",
+    "category": "household"
+  },
+  {
+    "id": 219,
+    "word": "busy",
+    "meaning": "meşgul",
+    "sentence": "That busy is big.",
+    "category": "adjectives"
+  },
+  {
+    "id": 400,
+    "word": "rhythm",
+    "meaning": "ritim",
+    "sentence": "The rhythm is on the table.",
+    "category": "music"
+  },
+  {
+    "id": 486,
+    "word": "proposal",
+    "meaning": "teklif",
+    "sentence": "Despite its ordinary appearance, the proposal carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "business"
+  },
+  {
+    "id": 148,
+    "word": "study",
+    "meaning": "öğrenim görmek",
+    "sentence": "This is a study.",
+    "category": "verbs"
+  },
+  {
+    "id": 327,
+    "word": "coat",
+    "meaning": "mont",
+    "sentence": "In ancient cultures, the coat was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "clothing"
+  },
+  {
+    "id": 170,
+    "word": "teach",
+    "meaning": "öğretmek",
+    "sentence": "That teach is big.",
+    "category": "verbs"
+  },
+  {
+    "id": 499,
+    "word": "barely",
+    "meaning": "zar zor",
+    "sentence": "The barely is here.",
+    "category": "adverbs"
+  },
+  {
+    "id": 385,
+    "word": "boxing",
+    "meaning": "boks",
+    "sentence": "The boxing, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "sports"
+  },
+  {
+    "id": 442,
+    "word": "ticket",
+    "meaning": "bilet",
+    "sentence": "The ticket is small.",
+    "category": "travel"
+  },
+  {
+    "id": 8,
+    "word": "goat",
+    "meaning": "keçi",
+    "sentence": "Rarely has the goat been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "animals"
+  },
+  {
+    "id": 255,
+    "word": "boat",
+    "meaning": "tekne",
+    "sentence": "If one reflects deeply, the boat embodies resilience and adaptation across countless generations.",
+    "category": "transport"
+  },
+  {
+    "id": 473,
+    "word": "patient",
+    "meaning": "sabırlı",
+    "sentence": "She has a patient.",
+    "category": "personality"
+  },
+  {
+    "id": 323,
+    "word": "pants",
+    "meaning": "pantolon",
+    "sentence": "In ancient cultures, the pants was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "clothing"
+  },
+  {
+    "id": 337,
+    "word": "head",
+    "meaning": "baş",
+    "sentence": "Far from being mundane, the head encapsulates the very essence of transformation and continuity.",
+    "category": "body"
+  },
+  {
+    "id": 280,
+    "word": "sun",
+    "meaning": "güneş",
+    "sentence": "If one reflects deeply, the sun embodies resilience and adaptation across countless generations.",
+    "category": "weather"
+  },
+  {
+    "id": 411,
+    "word": "machine learning",
+    "meaning": "makine öğrenimi",
+    "sentence": "If one reflects deeply, the machine learning embodies resilience and adaptation across countless generations.",
+    "category": "science"
+  },
+  {
+    "id": 250,
+    "word": "train",
+    "meaning": "tren",
+    "sentence": "By analyzing the train, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "transport"
+  },
+  {
+    "id": 98,
+    "word": "brown",
+    "meaning": "kahverengi",
+    "sentence": "If one reflects deeply, the brown embodies resilience and adaptation across countless generations.",
+    "category": "colors"
+  },
+  {
+    "id": 123,
+    "word": "architect",
+    "meaning": "mimar",
+    "sentence": "The architect is small.",
+    "category": "jobs"
+  },
+  {
+    "id": 321,
+    "word": "shirt",
+    "meaning": "gömlek",
+    "sentence": "The shirt is very nice.",
+    "category": "clothing"
+  },
+  {
+    "id": 49,
+    "word": "melon",
+    "meaning": "kavun",
+    "sentence": "That melon is big.",
+    "category": "food"
+  },
+  {
+    "id": 232,
+    "word": "university",
+    "meaning": "üniversite",
+    "sentence": "The university is very nice.",
+    "category": "places"
+  },
+  {
+    "id": 76,
+    "word": "salad",
+    "meaning": "salata",
+    "sentence": "Rarely has the salad been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "food"
+  },
+  {
+    "id": 90,
+    "word": "blue",
+    "meaning": "mavi",
+    "sentence": "My blue is red.",
+    "category": "colors"
+  },
+  {
+    "id": 125,
+    "word": "electrician",
+    "meaning": "elektrikçi",
+    "sentence": "The electrician is very nice.",
+    "category": "jobs"
+  },
+  {
+    "id": 229,
+    "word": "kitchen",
+    "meaning": "mutfak",
+    "sentence": "The kitchen, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "places"
+  },
+  {
+    "id": 443,
+    "word": "luggage",
+    "meaning": "bavul",
+    "sentence": "Rarely has the luggage been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "travel"
+  },
+  {
+    "id": 64,
+    "word": "cheese",
+    "meaning": "peynir",
+    "sentence": "If one reflects deeply, the cheese embodies resilience and adaptation across countless generations.",
+    "category": "food"
+  },
+  {
+    "id": 189,
+    "word": "good",
+    "meaning": "iyi",
+    "sentence": "By analyzing the good, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "adjectives"
+  },
+  {
+    "id": 407,
+    "word": "algorithm",
+    "meaning": "algoritma",
+    "sentence": "The algorithm is very nice.",
+    "category": "science"
+  },
+  {
+    "id": 293,
+    "word": "trust",
+    "meaning": "güven",
+    "sentence": "Although the trust may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "emotions"
+  },
+  {
+    "id": 470,
+    "word": "polite",
+    "meaning": "kibar",
+    "sentence": "This is a polite.",
+    "category": "personality"
+  },
+  {
+    "id": 415,
+    "word": "mathematics",
+    "meaning": "matematik",
+    "sentence": "If one reflects deeply, the mathematics embodies resilience and adaptation across countless generations.",
+    "category": "science"
+  },
+  {
+    "id": 262,
+    "word": "year",
+    "meaning": "yıl",
+    "sentence": "Rarely has the year been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "time"
+  },
+  {
+    "id": 309,
+    "word": "clock",
+    "meaning": "saat",
+    "sentence": "The clock, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "household"
+  },
+  {
+    "id": 181,
+    "word": "lose",
+    "meaning": "kaybetmek",
+    "sentence": "Despite its ordinary appearance, the lose carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "verbs"
+  },
+  {
+    "id": 372,
+    "word": "sky",
+    "meaning": "gökyüzü",
+    "sentence": "She has a sky.",
+    "category": "nature"
+  },
+  {
+    "id": 62,
+    "word": "egg",
+    "meaning": "yumurta",
+    "sentence": "I like the egg.",
+    "category": "food"
+  },
+  {
+    "id": 212,
+    "word": "dirty",
+    "meaning": "kirli",
+    "sentence": "The dirty is on the table.",
+    "category": "adjectives"
+  },
+  {
+    "id": 77,
+    "word": "sugar",
+    "meaning": "şeker",
+    "sentence": "By analyzing the sugar, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "food"
+  },
+  {
+    "id": 92,
+    "word": "yellow",
+    "meaning": "sarı",
+    "sentence": "My yellow is red.",
+    "category": "colors"
+  },
+  {
+    "id": 55,
+    "word": "tomato",
+    "meaning": "domates",
+    "sentence": "If one reflects deeply, the tomato embodies resilience and adaptation across countless generations.",
+    "category": "food"
+  },
+  {
+    "id": 105,
+    "word": "teacher",
+    "meaning": "öğretmen",
+    "sentence": "The teacher, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "jobs"
+  },
+  {
+    "id": 475,
+    "word": "market",
+    "meaning": "pazar",
+    "sentence": "The market, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "business"
+  },
+  {
+    "id": 325,
+    "word": "dress",
+    "meaning": "elbise",
+    "sentence": "Rarely has the dress been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "clothing"
+  },
+  {
+    "id": 191,
+    "word": "beautiful",
+    "meaning": "güzel",
+    "sentence": "This is a beautiful.",
+    "category": "adjectives"
+  },
+  {
+    "id": 61,
+    "word": "pepper",
+    "meaning": "biber",
+    "sentence": "She has a pepper.",
+    "category": "food"
+  },
+  {
+    "id": 221,
+    "word": "open",
+    "meaning": "açık",
+    "sentence": "Although the open may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "adjectives"
+  },
+  {
+    "id": 72,
+    "word": "chicken",
+    "meaning": "tavuk eti",
+    "sentence": "Rarely has the chicken been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "food"
+  },
+  {
+    "id": 468,
+    "word": "kind",
+    "meaning": "nazik",
+    "sentence": "The kind is very nice.",
+    "category": "personality"
+  },
+  {
+    "id": 252,
+    "word": "bicycle",
+    "meaning": "bisiklet",
+    "sentence": "This is a bicycle.",
+    "category": "transport"
+  },
+  {
+    "id": 205,
+    "word": "angry",
+    "meaning": "kızgın",
+    "sentence": "Rarely has the angry been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "adjectives"
+  },
+  {
+    "id": 371,
+    "word": "soil",
+    "meaning": "toprak",
+    "sentence": "That soil is big.",
+    "category": "nature"
+  },
+  {
+    "id": 230,
+    "word": "bathroom",
+    "meaning": "banyo",
+    "sentence": "The bathroom is on the table.",
+    "category": "places"
+  },
+  {
+    "id": 316,
+    "word": "shower",
+    "meaning": "duş",
+    "sentence": "The shower is here.",
+    "category": "household"
+  },
+  {
+    "id": 99,
+    "word": "gray",
+    "meaning": "gri",
+    "sentence": "The gray is small.",
+    "category": "colors"
+  },
+  {
+    "id": 254,
+    "word": "ship",
+    "meaning": "gemi",
+    "sentence": "That ship is big.",
+    "category": "transport"
+  },
+  {
+    "id": 157,
+    "word": "drive",
+    "meaning": "sürmek",
+    "sentence": "My drive is red.",
+    "category": "verbs"
+  },
+  {
+    "id": 70,
+    "word": "pasta",
+    "meaning": "makarna",
+    "sentence": "Rarely has the pasta been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "food"
+  },
+  {
+    "id": 365,
+    "word": "valley",
+    "meaning": "vadi",
+    "sentence": "I like the valley.",
+    "category": "nature"
+  },
+  {
+    "id": 380,
+    "word": "volleyball",
+    "meaning": "voleybol",
+    "sentence": "Despite its ordinary appearance, the volleyball carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "sports"
+  },
+  {
+    "id": 336,
+    "word": "tie",
+    "meaning": "kravat",
+    "sentence": "I like the tie.",
+    "category": "clothing"
+  },
+  {
+    "id": 163,
+    "word": "give",
+    "meaning": "vermek",
+    "sentence": "In ancient cultures, the give was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "verbs"
+  },
+  {
+    "id": 333,
+    "word": "scarf",
+    "meaning": "atkı",
+    "sentence": "Despite its ordinary appearance, the scarf carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "clothing"
+  },
+  {
+    "id": 461,
+    "word": "scholarship",
+    "meaning": "burs",
+    "sentence": "My scholarship is red.",
+    "category": "education"
+  },
+  {
+    "id": 376,
+    "word": "universe",
+    "meaning": "evren",
+    "sentence": "Rarely has the universe been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "nature"
+  },
+  {
+    "id": 194,
+    "word": "difficult",
+    "meaning": "zor",
+    "sentence": "In ancient cultures, the difficult was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "adjectives"
+  },
+  {
+    "id": 471,
+    "word": "curious",
+    "meaning": "meraklı",
+    "sentence": "The curious, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "personality"
+  },
+  {
+    "id": 492,
+    "word": "quietly",
+    "meaning": "sessizce",
+    "sentence": "My quietly is red.",
+    "category": "adverbs"
+  },
+  {
+    "id": 156,
+    "word": "walk",
+    "meaning": "yürümek",
+    "sentence": "The walk is very nice.",
+    "category": "verbs"
+  },
+  {
+    "id": 168,
+    "word": "understand",
+    "meaning": "anlamak",
+    "sentence": "The understand is on the table.",
+    "category": "verbs"
+  },
+  {
+    "id": 36,
+    "word": "seal",
+    "meaning": "fok",
+    "sentence": "In ancient cultures, the seal was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "animals"
+  },
+  {
+    "id": 32,
+    "word": "shark",
+    "meaning": "köpekbalığı",
+    "sentence": "I like the shark.",
+    "category": "animals"
+  },
+  {
+    "id": 161,
+    "word": "pay",
+    "meaning": "ödemek",
+    "sentence": "My pay is red.",
+    "category": "verbs"
+  },
+  {
+    "id": 151,
+    "word": "open",
+    "meaning": "açmak",
+    "sentence": "Although the open may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "verbs"
+  },
+  {
+    "id": 45,
+    "word": "cherry",
+    "meaning": "kiraz",
+    "sentence": "I saw the cherry yesterday.",
+    "category": "food"
+  },
+  {
+    "id": 297,
+    "word": "pride",
+    "meaning": "gurur",
+    "sentence": "I like the pride.",
+    "category": "emotions"
+  },
+  {
+    "id": 276,
+    "word": "often",
+    "meaning": "sık sık",
+    "sentence": "Despite its ordinary appearance, the often carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "time"
+  },
+  {
+    "id": 261,
+    "word": "month",
+    "meaning": "ay",
+    "sentence": "The month, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "time"
+  },
+  {
+    "id": 66,
+    "word": "yogurt",
+    "meaning": "yoğurt",
+    "sentence": "Far from being mundane, the yogurt encapsulates the very essence of transformation and continuity.",
+    "category": "food"
+  },
+  {
+    "id": 122,
+    "word": "journalist",
+    "meaning": "gazeteci",
+    "sentence": "The journalist is here.",
+    "category": "jobs"
+  },
+  {
+    "id": 408,
+    "word": "data",
+    "meaning": "veri",
+    "sentence": "By analyzing the data, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "science"
+  },
+  {
+    "id": 465,
+    "word": "perseverance",
+    "meaning": "azim",
+    "sentence": "The perseverance is very nice.",
+    "category": "personality"
+  },
+  {
+    "id": 10,
+    "word": "duck",
+    "meaning": "ördek",
+    "sentence": "I saw the duck yesterday.",
+    "category": "animals"
+  },
+  {
+    "id": 446,
+    "word": "reservation",
+    "meaning": "rezervasyon",
+    "sentence": "By analyzing the reservation, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "travel"
+  },
+  {
+    "id": 397,
+    "word": "flute",
+    "meaning": "flüt",
+    "sentence": "In ancient cultures, the flute was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "music"
+  },
+  {
+    "id": 430,
+    "word": "rule",
+    "meaning": "kural",
+    "sentence": "I saw the rule yesterday.",
+    "category": "society"
+  },
+  {
+    "id": 91,
+    "word": "green",
+    "meaning": "yeşil",
+    "sentence": "The green, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "colors"
+  },
+  {
+    "id": 437,
+    "word": "economy",
+    "meaning": "ekonomi",
+    "sentence": "The economy, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "society"
+  },
+  {
+    "id": 299,
+    "word": "table",
+    "meaning": "masa",
+    "sentence": "In ancient cultures, the table was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "household"
+  },
+  {
+    "id": 52,
+    "word": "pineapple",
+    "meaning": "ananas",
+    "sentence": "The pineapple is here.",
+    "category": "food"
+  },
+  {
+    "id": 65,
+    "word": "milk",
+    "meaning": "süt",
+    "sentence": "In ancient cultures, the milk was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "food"
+  },
+  {
+    "id": 370,
+    "word": "stone",
+    "meaning": "taş",
+    "sentence": "If one reflects deeply, the stone embodies resilience and adaptation across countless generations.",
+    "category": "nature"
+  },
+  {
+    "id": 311,
+    "word": "refrigerator",
+    "meaning": "buzdolabı",
+    "sentence": "The presence of the refrigerator in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "household"
+  },
+  {
+    "id": 93,
+    "word": "black",
+    "meaning": "siyah",
+    "sentence": "The presence of the black in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "colors"
+  },
+  {
+    "id": 220,
+    "word": "free",
+    "meaning": "boş",
+    "sentence": "The free is on the table.",
+    "category": "adjectives"
+  },
+  {
+    "id": 223,
+    "word": "city",
+    "meaning": "şehir",
+    "sentence": "That city is big.",
+    "category": "places"
+  },
+  {
+    "id": 111,
+    "word": "police officer",
+    "meaning": "polis memuru",
+    "sentence": "The police officer, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "jobs"
+  },
+  {
+    "id": 264,
+    "word": "minute",
+    "meaning": "dakika",
+    "sentence": "The minute is very nice.",
+    "category": "time"
+  },
+  {
+    "id": 11,
+    "word": "goose",
+    "meaning": "kaz",
+    "sentence": "Although the goose may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "animals"
+  },
+  {
+    "id": 267,
+    "word": "yesterday",
+    "meaning": "dün",
+    "sentence": "The presence of the yesterday in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "time"
+  },
+  {
+    "id": 136,
+    "word": "come",
+    "meaning": "gelmek",
+    "sentence": "The come, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "verbs"
+  },
+  {
+    "id": 478,
+    "word": "expense",
+    "meaning": "gider",
+    "sentence": "The expense, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "business"
+  },
+  {
+    "id": 192,
+    "word": "ugly",
+    "meaning": "çirkin",
+    "sentence": "The ugly, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "adjectives"
+  },
+  {
+    "id": 196,
+    "word": "slow",
+    "meaning": "yavaş",
+    "sentence": "The slow is very nice.",
+    "category": "adjectives"
+  },
+  {
+    "id": 266,
+    "word": "today",
+    "meaning": "bugün",
+    "sentence": "Far from being mundane, the today encapsulates the very essence of transformation and continuity.",
+    "category": "time"
+  },
+  {
+    "id": 51,
+    "word": "lime",
+    "meaning": "misket limonu",
+    "sentence": "That lime is big.",
+    "category": "food"
+  },
+  {
+    "id": 391,
+    "word": "singer",
+    "meaning": "şarkıcı",
+    "sentence": "That singer is big.",
+    "category": "music"
+  },
+  {
+    "id": 260,
+    "word": "week",
+    "meaning": "hafta",
+    "sentence": "The week is very nice.",
+    "category": "time"
+  },
+  {
+    "id": 351,
+    "word": "finger",
+    "meaning": "parmak",
+    "sentence": "The finger is very nice.",
+    "category": "body"
+  },
+  {
+    "id": 166,
+    "word": "think",
+    "meaning": "düşünmek",
+    "sentence": "The think, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "verbs"
+  },
+  {
+    "id": 186,
+    "word": "old",
+    "meaning": "eski",
+    "sentence": "The old is small.",
+    "category": "adjectives"
+  },
+  {
+    "id": 213,
+    "word": "expensive",
+    "meaning": "pahalı",
+    "sentence": "The expensive, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "adjectives"
+  },
+  {
+    "id": 341,
+    "word": "foot",
+    "meaning": "ayak",
+    "sentence": "This is a foot.",
+    "category": "body"
+  },
+  {
+    "id": 500,
+    "word": "ubiquitous",
+    "meaning": "her yerde bulunan",
+    "sentence": "She has a ubiquitous.",
+    "category": "advanced"
+  },
+  {
+    "id": 422,
+    "word": "efficiency",
+    "meaning": "verimlilik",
+    "sentence": "The efficiency, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "science"
+  },
+  {
+    "id": 22,
+    "word": "bee",
+    "meaning": "arı",
+    "sentence": "I like the bee.",
+    "category": "animals"
+  },
+  {
+    "id": 457,
+    "word": "grade",
+    "meaning": "not",
+    "sentence": "The grade is here.",
+    "category": "education"
+  },
+  {
+    "id": 318,
+    "word": "pillow",
+    "meaning": "yastık",
+    "sentence": "Rarely has the pillow been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "household"
+  },
+  {
+    "id": 119,
+    "word": "musician",
+    "meaning": "müzisyen",
+    "sentence": "The musician is very nice.",
+    "category": "jobs"
+  },
+  {
+    "id": 438,
+    "word": "policy",
+    "meaning": "politika",
+    "sentence": "The policy is very nice.",
+    "category": "society"
+  },
+  {
+    "id": 56,
+    "word": "potato",
+    "meaning": "patates",
+    "sentence": "By analyzing the potato, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "food"
+  },
+  {
+    "id": 493,
+    "word": "loudly",
+    "meaning": "yüksek sesle",
+    "sentence": "The loudly is here.",
+    "category": "adverbs"
+  },
+  {
+    "id": 281,
+    "word": "rain",
+    "meaning": "yağmur",
+    "sentence": "Despite its ordinary appearance, the rain carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "weather"
+  },
+  {
+    "id": 210,
+    "word": "quiet",
+    "meaning": "sessiz",
+    "sentence": "Although the quiet may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "adjectives"
+  },
+  {
+    "id": 44,
+    "word": "strawberry",
+    "meaning": "çilek",
+    "sentence": "The strawberry, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "food"
+  },
+  {
+    "id": 450,
+    "word": "itinerary",
+    "meaning": "gezi planı",
+    "sentence": "My itinerary is red.",
+    "category": "travel"
+  },
+  {
+    "id": 135,
+    "word": "go",
+    "meaning": "gitmek",
+    "sentence": "By analyzing the go, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "verbs"
+  },
+  {
+    "id": 128,
+    "word": "cashier",
+    "meaning": "kasiyer",
+    "sentence": "This is a cashier.",
+    "category": "jobs"
+  },
+  {
+    "id": 497,
+    "word": "exactly",
+    "meaning": "tam olarak",
+    "sentence": "She has a exactly.",
+    "category": "adverbs"
+  },
+  {
+    "id": 116,
+    "word": "driver",
+    "meaning": "şoför",
+    "sentence": "This is a driver.",
+    "category": "jobs"
+  },
+  {
+    "id": 289,
+    "word": "weather",
+    "meaning": "hava durumu",
+    "sentence": "This is a weather.",
+    "category": "weather"
+  },
+  {
+    "id": 363,
+    "word": "island",
+    "meaning": "ada",
+    "sentence": "That island is big.",
+    "category": "nature"
+  },
+  {
+    "id": 469,
+    "word": "generous",
+    "meaning": "cömert",
+    "sentence": "The generous is on the table.",
+    "category": "personality"
+  },
+  {
+    "id": 7,
+    "word": "sheep",
+    "meaning": "koyun",
+    "sentence": "Although the sheep may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "animals"
+  },
+  {
+    "id": 214,
+    "word": "cheap",
+    "meaning": "ucuz",
+    "sentence": "By analyzing the cheap, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "adjectives"
+  },
+  {
+    "id": 188,
+    "word": "elderly",
+    "meaning": "yaşlı",
+    "sentence": "The elderly is very nice.",
+    "category": "adjectives"
+  },
+  {
+    "id": 270,
+    "word": "afternoon",
+    "meaning": "öğleden sonra",
+    "sentence": "By analyzing the afternoon, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "time"
+  },
+  {
+    "id": 75,
+    "word": "soup",
+    "meaning": "çorba",
+    "sentence": "The soup is very nice.",
+    "category": "food"
+  },
+  {
+    "id": 176,
+    "word": "hate",
+    "meaning": "nefret etmek",
+    "sentence": "The hate is very nice.",
+    "category": "verbs"
+  },
+  {
+    "id": 360,
+    "word": "lake",
+    "meaning": "göl",
+    "sentence": "The lake, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "nature"
+  },
+  {
+    "id": 54,
+    "word": "avocado",
+    "meaning": "avokado",
+    "sentence": "Far from being mundane, the avocado encapsulates the very essence of transformation and continuity.",
+    "category": "food"
+  },
+  {
+    "id": 350,
+    "word": "brain",
+    "meaning": "beyin",
+    "sentence": "If one reflects deeply, the brain embodies resilience and adaptation across countless generations.",
+    "category": "body"
+  },
+  {
+    "id": 324,
+    "word": "jeans",
+    "meaning": "kot",
+    "sentence": "The jeans, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "clothing"
+  },
+  {
+    "id": 109,
+    "word": "lawyer",
+    "meaning": "avukat",
+    "sentence": "I saw the lawyer yesterday.",
+    "category": "jobs"
+  },
+  {
+    "id": 481,
+    "word": "negotiation",
+    "meaning": "müzakere",
+    "sentence": "Despite its ordinary appearance, the negotiation carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "business"
+  },
+  {
+    "id": 222,
+    "word": "closed",
+    "meaning": "kapalı",
+    "sentence": "The closed, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "adjectives"
+  },
+  {
+    "id": 275,
+    "word": "always",
+    "meaning": "her zaman",
+    "sentence": "Despite its ordinary appearance, the always carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "time"
+  },
+  {
+    "id": 429,
+    "word": "law",
+    "meaning": "yasa",
+    "sentence": "This is a law.",
+    "category": "society"
+  },
+  {
+    "id": 396,
+    "word": "drum",
+    "meaning": "davul",
+    "sentence": "She has a drum.",
+    "category": "music"
+  },
+  {
+    "id": 63,
+    "word": "bread",
+    "meaning": "ekmek",
+    "sentence": "The bread, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "food"
+  },
+  {
+    "id": 53,
+    "word": "mango",
+    "meaning": "mango",
+    "sentence": "I like the mango.",
+    "category": "food"
+  },
+  {
+    "id": 204,
+    "word": "sad",
+    "meaning": "üzgün",
+    "sentence": "I saw the sad yesterday.",
+    "category": "adjectives"
+  },
+  {
+    "id": 462,
+    "word": "thesis",
+    "meaning": "tez",
+    "sentence": "This is a thesis.",
+    "category": "education"
+  },
+  {
+    "id": 459,
+    "word": "laboratory",
+    "meaning": "laboratuvar",
+    "sentence": "This is a laboratory.",
+    "category": "education"
+  },
+  {
+    "id": 305,
+    "word": "window",
+    "meaning": "pencere",
+    "sentence": "My window is red.",
+    "category": "household"
+  },
+  {
+    "id": 198,
+    "word": "late",
+    "meaning": "geç",
+    "sentence": "That late is big.",
+    "category": "adjectives"
+  },
+  {
+    "id": 485,
+    "word": "project",
+    "meaning": "proje",
+    "sentence": "The project is small.",
+    "category": "business"
+  },
+  {
+    "id": 362,
+    "word": "ocean",
+    "meaning": "okyanus",
+    "sentence": "Although the ocean may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "nature"
+  },
+  {
+    "id": 121,
+    "word": "writer",
+    "meaning": "yazar",
+    "sentence": "By analyzing the writer, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "jobs"
+  },
+  {
+    "id": 352,
+    "word": "hair",
+    "meaning": "saç",
+    "sentence": "The hair, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "body"
+  },
+  {
+    "id": 50,
+    "word": "lemon",
+    "meaning": "limon",
+    "sentence": "The lemon is on the table.",
+    "category": "food"
+  },
+  {
+    "id": 133,
+    "word": "photographer",
+    "meaning": "fotoğrafçı",
+    "sentence": "The photographer is small.",
+    "category": "jobs"
+  },
+  {
+    "id": 134,
+    "word": "pharmacist",
+    "meaning": "eczacı",
+    "sentence": "The pharmacist, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "jobs"
+  },
+  {
+    "id": 366,
+    "word": "waterfall",
+    "meaning": "şelale",
+    "sentence": "I like the waterfall.",
+    "category": "nature"
+  },
+  {
+    "id": 40,
+    "word": "apple",
+    "meaning": "elma",
+    "sentence": "The apple is small.",
+    "category": "food"
+  },
+  {
+    "id": 85,
+    "word": "water",
+    "meaning": "su",
+    "sentence": "I saw the water yesterday.",
+    "category": "food"
+  },
+  {
+    "id": 317,
+    "word": "towel",
+    "meaning": "havlu",
+    "sentence": "The towel is small.",
+    "category": "household"
+  },
+  {
+    "id": 375,
+    "word": "planet",
+    "meaning": "gezegen",
+    "sentence": "This is a planet.",
+    "category": "nature"
+  },
+  {
+    "id": 39,
+    "word": "kangaroo",
+    "meaning": "kanguru",
+    "sentence": "I saw the kangaroo yesterday.",
+    "category": "animals"
+  },
+  {
+    "id": 279,
+    "word": "never",
+    "meaning": "asla",
+    "sentence": "I like the never.",
+    "category": "time"
+  },
+  {
+    "id": 347,
+    "word": "back",
+    "meaning": "sırt",
+    "sentence": "In ancient cultures, the back was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "body"
+  },
+  {
+    "id": 436,
+    "word": "responsibility",
+    "meaning": "sorumluluk",
+    "sentence": "That responsibility is big.",
+    "category": "society"
+  },
+  {
+    "id": 19,
+    "word": "giraffe",
+    "meaning": "zürafa",
+    "sentence": "The giraffe, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "animals"
+  },
+  {
+    "id": 464,
+    "word": "meticulous",
+    "meaning": "titiz",
+    "sentence": "By analyzing the meticulous, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "personality"
+  },
+  {
+    "id": 107,
+    "word": "nurse",
+    "meaning": "hemşire",
+    "sentence": "She has a nurse.",
+    "category": "jobs"
+  },
+  {
+    "id": 95,
+    "word": "orange",
+    "meaning": "turuncu",
+    "sentence": "The orange is small.",
+    "category": "colors"
+  },
+  {
+    "id": 480,
+    "word": "strategy",
+    "meaning": "strateji",
+    "sentence": "I saw the strategy yesterday.",
+    "category": "business"
+  },
+  {
+    "id": 402,
+    "word": "phone",
+    "meaning": "telefon",
+    "sentence": "The phone is small.",
+    "category": "science"
+  },
+  {
+    "id": 338,
+    "word": "hand",
+    "meaning": "el",
+    "sentence": "The hand is small.",
+    "category": "body"
+  },
+  {
+    "id": 233,
+    "word": "office",
+    "meaning": "ofis",
+    "sentence": "The office is on the table.",
+    "category": "places"
+  },
+  {
+    "id": 334,
+    "word": "gloves",
+    "meaning": "eldiven",
+    "sentence": "She has a gloves.",
+    "category": "clothing"
+  },
+  {
+    "id": 246,
+    "word": "bank",
+    "meaning": "banka",
+    "sentence": "The bank, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "places"
+  },
+  {
+    "id": 392,
+    "word": "band",
+    "meaning": "grup",
+    "sentence": "Although the band may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "music"
+  },
+  {
+    "id": 172,
+    "word": "need",
+    "meaning": "ihtiyaç duymak",
+    "sentence": "By analyzing the need, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "verbs"
+  },
+  {
+    "id": 291,
+    "word": "fear",
+    "meaning": "korku",
+    "sentence": "In ancient cultures, the fear was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "emotions"
+  },
+  {
+    "id": 218,
+    "word": "dangerous",
+    "meaning": "tehlikeli",
+    "sentence": "Rarely has the dangerous been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "adjectives"
+  },
+  {
+    "id": 271,
+    "word": "evening",
+    "meaning": "akşam",
+    "sentence": "I like the evening.",
+    "category": "time"
+  },
+  {
+    "id": 171,
+    "word": "help",
+    "meaning": "yardım etmek",
+    "sentence": "I saw the help yesterday.",
+    "category": "verbs"
+  },
+  {
+    "id": 124,
+    "word": "mechanic",
+    "meaning": "tamirci",
+    "sentence": "The presence of the mechanic in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "jobs"
+  },
+  {
+    "id": 339,
+    "word": "arm",
+    "meaning": "kol",
+    "sentence": "In ancient cultures, the arm was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "body"
+  },
+  {
+    "id": 304,
+    "word": "door",
+    "meaning": "kapı",
+    "sentence": "If one reflects deeply, the door embodies resilience and adaptation across countless generations.",
+    "category": "household"
+  },
+  {
+    "id": 483,
+    "word": "deadline",
+    "meaning": "son teslim tarihi",
+    "sentence": "This is a deadline.",
+    "category": "business"
+  },
+  {
+    "id": 224,
+    "word": "village",
+    "meaning": "köy",
+    "sentence": "The village, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "places"
+  },
+  {
+    "id": 458,
+    "word": "lecture",
+    "meaning": "ders",
+    "sentence": "By analyzing the lecture, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "education"
+  },
+  {
+    "id": 84,
+    "word": "coffee",
+    "meaning": "kahve",
+    "sentence": "The coffee is very nice.",
+    "category": "food"
+  },
+  {
+    "id": 142,
+    "word": "tell",
+    "meaning": "anlatmak",
+    "sentence": "I like the tell.",
+    "category": "verbs"
+  },
+  {
+    "id": 472,
+    "word": "creative",
+    "meaning": "yaratıcı",
+    "sentence": "The creative, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "personality"
+  },
+  {
+    "id": 25,
+    "word": "spider",
+    "meaning": "örümcek",
+    "sentence": "In ancient cultures, the spider was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "animals"
+  },
+  {
+    "id": 89,
+    "word": "red",
+    "meaning": "kırmızı",
+    "sentence": "My red is red.",
+    "category": "colors"
+  },
+  {
+    "id": 58,
+    "word": "garlic",
+    "meaning": "sarımsak",
+    "sentence": "The garlic, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "food"
+  },
+  {
+    "id": 315,
+    "word": "toilet",
+    "meaning": "tuvalet",
+    "sentence": "I saw the toilet yesterday.",
+    "category": "household"
+  },
+  {
+    "id": 239,
+    "word": "museum",
+    "meaning": "müze",
+    "sentence": "The presence of the museum in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "places"
+  },
+  {
+    "id": 414,
+    "word": "biology",
+    "meaning": "biyoloji",
+    "sentence": "The biology is small.",
+    "category": "science"
+  },
+  {
+    "id": 288,
+    "word": "temperature",
+    "meaning": "sıcaklık",
+    "sentence": "By analyzing the temperature, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "weather"
+  },
+  {
+    "id": 60,
+    "word": "cucumber",
+    "meaning": "salatalık",
+    "sentence": "Far from being mundane, the cucumber encapsulates the very essence of transformation and continuity.",
+    "category": "food"
+  },
+  {
+    "id": 158,
+    "word": "ride",
+    "meaning": "binmek",
+    "sentence": "Rarely has the ride been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "verbs"
+  },
+  {
+    "id": 241,
+    "word": "restaurant",
+    "meaning": "restoran",
+    "sentence": "The restaurant, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "places"
+  },
+  {
+    "id": 78,
+    "word": "salt",
+    "meaning": "tuz",
+    "sentence": "The salt, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "food"
+  },
+  {
+    "id": 215,
+    "word": "right",
+    "meaning": "doğru",
+    "sentence": "The right is on the table.",
+    "category": "adjectives"
+  },
+  {
+    "id": 356,
+    "word": "leaf",
+    "meaning": "yaprak",
+    "sentence": "The leaf, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "nature"
+  },
+  {
+    "id": 359,
+    "word": "river",
+    "meaning": "nehir",
+    "sentence": "This is a river.",
+    "category": "nature"
+  },
+  {
+    "id": 108,
+    "word": "engineer",
+    "meaning": "mühendis",
+    "sentence": "My engineer is red.",
+    "category": "jobs"
+  },
+  {
+    "id": 5,
+    "word": "horse",
+    "meaning": "at",
+    "sentence": "If one reflects deeply, the horse embodies resilience and adaptation across countless generations.",
+    "category": "animals"
+  },
+  {
+    "id": 185,
+    "word": "new",
+    "meaning": "yeni",
+    "sentence": "Despite its ordinary appearance, the new carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "adjectives"
+  },
+  {
+    "id": 81,
+    "word": "cake",
+    "meaning": "pasta",
+    "sentence": "Rarely has the cake been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "food"
+  },
+  {
+    "id": 245,
+    "word": "bus stop",
+    "meaning": "otobüs durağı",
+    "sentence": "She has a bus stop.",
+    "category": "places"
+  },
+  {
+    "id": 358,
+    "word": "mountain",
+    "meaning": "dağ",
+    "sentence": "Despite its ordinary appearance, the mountain carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "nature"
+  },
+  {
+    "id": 301,
+    "word": "bed",
+    "meaning": "yatak",
+    "sentence": "I saw the bed yesterday.",
+    "category": "household"
+  },
+  {
+    "id": 160,
+    "word": "sell",
+    "meaning": "satmak",
+    "sentence": "In ancient cultures, the sell was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "verbs"
+  },
+  {
+    "id": 28,
+    "word": "hawk",
+    "meaning": "şahin",
+    "sentence": "The hawk is on the table.",
+    "category": "animals"
+  },
+  {
+    "id": 193,
+    "word": "easy",
+    "meaning": "kolay",
+    "sentence": "The easy is small.",
+    "category": "adjectives"
+  },
+  {
+    "id": 195,
+    "word": "fast",
+    "meaning": "hızlı",
+    "sentence": "If one reflects deeply, the fast embodies resilience and adaptation across countless generations.",
+    "category": "adjectives"
+  },
+  {
+    "id": 14,
+    "word": "wolf",
+    "meaning": "kurt",
+    "sentence": "The wolf, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "animals"
+  },
+  {
+    "id": 285,
+    "word": "fog",
+    "meaning": "sis",
+    "sentence": "The fog is on the table.",
+    "category": "weather"
+  },
+  {
+    "id": 242,
+    "word": "café",
+    "meaning": "kafe",
+    "sentence": "I like the café.",
+    "category": "places"
+  },
+  {
+    "id": 33,
+    "word": "octopus",
+    "meaning": "ahtapot",
+    "sentence": "I like the octopus.",
+    "category": "animals"
+  },
+  {
+    "id": 421,
+    "word": "innovation",
+    "meaning": "yenilik",
+    "sentence": "The innovation is here.",
+    "category": "science"
+  },
+  {
+    "id": 369,
+    "word": "rock",
+    "meaning": "kaya",
+    "sentence": "In ancient cultures, the rock was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "nature"
+  },
+  {
+    "id": 314,
+    "word": "sink",
+    "meaning": "lavabo",
+    "sentence": "She has a sink.",
+    "category": "household"
+  },
+  {
+    "id": 69,
+    "word": "rice",
+    "meaning": "pirinç",
+    "sentence": "The rice is small.",
+    "category": "food"
+  },
+  {
+    "id": 87,
+    "word": "soda",
+    "meaning": "soda",
+    "sentence": "The soda is very nice.",
+    "category": "food"
+  },
+  {
+    "id": 73,
+    "word": "beef",
+    "meaning": "dana eti",
+    "sentence": "The beef, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "food"
+  },
+  {
+    "id": 307,
+    "word": "ceiling",
+    "meaning": "tavan",
+    "sentence": "I like the ceiling.",
+    "category": "household"
+  },
+  {
+    "id": 248,
+    "word": "car",
+    "meaning": "araba",
+    "sentence": "Far from being mundane, the car encapsulates the very essence of transformation and continuity.",
+    "category": "transport"
+  },
+  {
+    "id": 364,
+    "word": "desert",
+    "meaning": "çöl",
+    "sentence": "The desert is here.",
+    "category": "nature"
+  },
+  {
+    "id": 129,
+    "word": "manager",
+    "meaning": "yönetici",
+    "sentence": "Rarely has the manager been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "jobs"
+  },
+  {
+    "id": 140,
+    "word": "speak",
+    "meaning": "konuşmak",
+    "sentence": "The speak, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "verbs"
+  },
+  {
+    "id": 367,
+    "word": "beach",
+    "meaning": "plaj",
+    "sentence": "The beach is on the table.",
+    "category": "nature"
+  },
+  {
+    "id": 120,
+    "word": "artist",
+    "meaning": "sanatçı",
+    "sentence": "Rarely has the artist been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "jobs"
+  },
+  {
+    "id": 296,
+    "word": "envy",
+    "meaning": "kıskançlık",
+    "sentence": "The presence of the envy in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "emotions"
+  },
+  {
+    "id": 257,
+    "word": "subway",
+    "meaning": "metro",
+    "sentence": "The subway, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "transport"
+  },
+  {
+    "id": 428,
+    "word": "tradition",
+    "meaning": "gelenek",
+    "sentence": "My tradition is red.",
+    "category": "society"
+  },
+  {
+    "id": 300,
+    "word": "chair",
+    "meaning": "sandalye",
+    "sentence": "The chair is very nice.",
+    "category": "household"
+  },
+  {
+    "id": 67,
+    "word": "butter",
+    "meaning": "tereyağı",
+    "sentence": "My butter is red.",
+    "category": "food"
+  },
+  {
+    "id": 272,
+    "word": "night",
+    "meaning": "gece",
+    "sentence": "The night is on the table.",
+    "category": "time"
+  },
+  {
+    "id": 145,
+    "word": "sleep",
+    "meaning": "uyumak",
+    "sentence": "Although the sleep may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "verbs"
+  },
+  {
+    "id": 1,
+    "word": "dog",
+    "meaning": "köpek",
+    "sentence": "Far from being mundane, the dog encapsulates the very essence of transformation and continuity.",
+    "category": "animals"
+  },
+  {
+    "id": 329,
+    "word": "sweater",
+    "meaning": "kazak",
+    "sentence": "If one reflects deeply, the sweater embodies resilience and adaptation across countless generations.",
+    "category": "clothing"
+  },
+  {
+    "id": 418,
+    "word": "theory",
+    "meaning": "teori",
+    "sentence": "The theory, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "science"
+  },
+  {
+    "id": 455,
+    "word": "homework",
+    "meaning": "ödev",
+    "sentence": "This is a homework.",
+    "category": "education"
+  },
+  {
+    "id": 357,
+    "word": "forest",
+    "meaning": "orman",
+    "sentence": "This is a forest.",
+    "category": "nature"
+  },
+  {
+    "id": 419,
+    "word": "hypothesis",
+    "meaning": "hipotez",
+    "sentence": "The hypothesis is very nice.",
+    "category": "science"
+  },
+  {
+    "id": 420,
+    "word": "evidence",
+    "meaning": "kanıt",
+    "sentence": "This is a evidence.",
+    "category": "science"
+  },
+  {
+    "id": 278,
+    "word": "rarely",
+    "meaning": "nadiren",
+    "sentence": "In ancient cultures, the rarely was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "time"
+  },
+  {
+    "id": 228,
+    "word": "room",
+    "meaning": "oda",
+    "sentence": "In ancient cultures, the room was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "places"
+  },
+  {
+    "id": 103,
+    "word": "turquoise",
+    "meaning": "turkuaz",
+    "sentence": "The turquoise is very nice.",
+    "category": "colors"
+  },
+  {
+    "id": 348,
+    "word": "stomach",
+    "meaning": "mide",
+    "sentence": "The stomach, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "body"
+  },
+  {
+    "id": 183,
+    "word": "big",
+    "meaning": "büyük",
+    "sentence": "Rarely has the big been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "adjectives"
+  },
+  {
+    "id": 432,
+    "word": "election",
+    "meaning": "seçim",
+    "sentence": "The election is very nice.",
+    "category": "society"
+  },
+  {
+    "id": 282,
+    "word": "snow",
+    "meaning": "kar",
+    "sentence": "The snow, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "weather"
+  },
+  {
+    "id": 427,
+    "word": "culture",
+    "meaning": "kültür",
+    "sentence": "She has a culture.",
+    "category": "society"
+  },
+  {
+    "id": 12,
+    "word": "rabbit",
+    "meaning": "tavşan",
+    "sentence": "I like the rabbit.",
+    "category": "animals"
+  },
+  {
+    "id": 235,
+    "word": "store",
+    "meaning": "mağaza",
+    "sentence": "If one reflects deeply, the store embodies resilience and adaptation across countless generations.",
+    "category": "places"
+  },
+  {
+    "id": 330,
+    "word": "shoes",
+    "meaning": "ayakkabı",
+    "sentence": "Rarely has the shoes been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "clothing"
+  },
+  {
+    "id": 211,
+    "word": "clean",
+    "meaning": "temiz",
+    "sentence": "That clean is big.",
+    "category": "adjectives"
+  },
+  {
+    "id": 295,
+    "word": "love",
+    "meaning": "sevgi",
+    "sentence": "By analyzing the love, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "emotions"
+  },
+  {
+    "id": 386,
+    "word": "wrestling",
+    "meaning": "güreş",
+    "sentence": "She has a wrestling.",
+    "category": "sports"
+  },
+  {
+    "id": 284,
+    "word": "cloud",
+    "meaning": "bulut",
+    "sentence": "If one reflects deeply, the cloud embodies resilience and adaptation across countless generations.",
+    "category": "weather"
+  },
+  {
+    "id": 389,
+    "word": "music",
+    "meaning": "müzik",
+    "sentence": "The music is very nice.",
+    "category": "music"
+  },
+  {
+    "id": 243,
+    "word": "airport",
+    "meaning": "havaalanı",
+    "sentence": "I saw the airport yesterday.",
+    "category": "places"
+  },
+  {
+    "id": 200,
+    "word": "cold",
+    "meaning": "soğuk",
+    "sentence": "The presence of the cold in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "adjectives"
+  },
+  {
+    "id": 491,
+    "word": "carefully",
+    "meaning": "dikkatlice",
+    "sentence": "The carefully is small.",
+    "category": "adverbs"
+  },
+  {
+    "id": 206,
+    "word": "tired",
+    "meaning": "yorgun",
+    "sentence": "Rarely has the tired been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "adjectives"
+  },
+  {
+    "id": 208,
+    "word": "thirsty",
+    "meaning": "susamış",
+    "sentence": "The presence of the thirsty in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "adjectives"
+  },
+  {
+    "id": 178,
+    "word": "try",
+    "meaning": "denemek",
+    "sentence": "In ancient cultures, the try was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "verbs"
+  },
+  {
+    "id": 150,
+    "word": "write",
+    "meaning": "yazmak",
+    "sentence": "That write is big.",
+    "category": "verbs"
+  },
+  {
+    "id": 2,
+    "word": "cat",
+    "meaning": "kedi",
+    "sentence": "I saw the cat yesterday.",
+    "category": "animals"
+  },
+  {
+    "id": 342,
+    "word": "eye",
+    "meaning": "göz",
+    "sentence": "My eye is red.",
+    "category": "body"
+  },
+  {
+    "id": 201,
+    "word": "warm",
+    "meaning": "ılık",
+    "sentence": "The warm is very nice.",
+    "category": "adjectives"
+  },
+  {
+    "id": 466,
+    "word": "honest",
+    "meaning": "dürüst",
+    "sentence": "Rarely has the honest been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "personality"
+  },
+  {
+    "id": 409,
+    "word": "robot",
+    "meaning": "robot",
+    "sentence": "By analyzing the robot, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "science"
+  },
+  {
+    "id": 112,
+    "word": "firefighter",
+    "meaning": "itfaiyeci",
+    "sentence": "The presence of the firefighter in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "jobs"
+  },
+  {
+    "id": 153,
+    "word": "start",
+    "meaning": "başlamak",
+    "sentence": "The start is small.",
+    "category": "verbs"
+  },
+  {
+    "id": 426,
+    "word": "society",
+    "meaning": "toplum",
+    "sentence": "I saw the society yesterday.",
+    "category": "society"
+  },
+  {
+    "id": 197,
+    "word": "early",
+    "meaning": "erken",
+    "sentence": "The early is very nice.",
+    "category": "adjectives"
+  },
+  {
+    "id": 292,
+    "word": "surprise",
+    "meaning": "şaşkınlık",
+    "sentence": "My surprise is red.",
+    "category": "emotions"
+  },
+  {
+    "id": 88,
+    "word": "honey",
+    "meaning": "bal",
+    "sentence": "This is a honey.",
+    "category": "food"
+  },
+  {
+    "id": 377,
+    "word": "football",
+    "meaning": "futbol",
+    "sentence": "The football, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "sports"
+  },
+  {
+    "id": 454,
+    "word": "lesson",
+    "meaning": "ders",
+    "sentence": "In ancient cultures, the lesson was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "education"
+  },
+  {
+    "id": 265,
+    "word": "second",
+    "meaning": "saniye",
+    "sentence": "If one reflects deeply, the second embodies resilience and adaptation across countless generations.",
+    "category": "time"
+  },
+  {
+    "id": 313,
+    "word": "stove",
+    "meaning": "ocak",
+    "sentence": "My stove is red.",
+    "category": "household"
+  },
+  {
+    "id": 445,
+    "word": "hotel",
+    "meaning": "otel",
+    "sentence": "That hotel is big.",
+    "category": "travel"
+  },
+  {
+    "id": 447,
+    "word": "guide",
+    "meaning": "rehber",
+    "sentence": "The guide is here.",
+    "category": "travel"
+  },
+  {
+    "id": 387,
+    "word": "golf",
+    "meaning": "golf",
+    "sentence": "The golf is small.",
+    "category": "sports"
+  },
+  {
+    "id": 209,
+    "word": "noisy",
+    "meaning": "gürültülü",
+    "sentence": "She has a noisy.",
+    "category": "adjectives"
+  },
+  {
+    "id": 118,
+    "word": "soldier",
+    "meaning": "asker",
+    "sentence": "The presence of the soldier in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "jobs"
+  },
+  {
+    "id": 474,
+    "word": "company",
+    "meaning": "şirket",
+    "sentence": "If one reflects deeply, the company embodies resilience and adaptation across countless generations.",
+    "category": "business"
+  },
+  {
+    "id": 463,
+    "word": "elaborate",
+    "meaning": "ayrıntılı",
+    "sentence": "The elaborate is small.",
+    "category": "education"
+  },
+  {
+    "id": 146,
+    "word": "wake up",
+    "meaning": "uyanmak",
+    "sentence": "Far from being mundane, the wake up encapsulates the very essence of transformation and continuity.",
+    "category": "verbs"
+  },
+  {
+    "id": 249,
+    "word": "bus",
+    "meaning": "otobüs",
+    "sentence": "If one reflects deeply, the bus embodies resilience and adaptation across countless generations.",
+    "category": "transport"
+  },
+  {
+    "id": 361,
+    "word": "sea",
+    "meaning": "deniz",
+    "sentence": "The presence of the sea in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "nature"
+  },
+  {
+    "id": 298,
+    "word": "shame",
+    "meaning": "utanç",
+    "sentence": "I like the shame.",
+    "category": "emotions"
+  },
+  {
+    "id": 164,
+    "word": "make",
+    "meaning": "yapmak",
+    "sentence": "I saw the make yesterday.",
+    "category": "verbs"
+  },
+  {
+    "id": 416,
+    "word": "experiment",
+    "meaning": "deney",
+    "sentence": "By analyzing the experiment, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "science"
+  },
+  {
+    "id": 236,
+    "word": "market",
+    "meaning": "market",
+    "sentence": "The market is here.",
+    "category": "places"
+  },
+  {
+    "id": 390,
+    "word": "song",
+    "meaning": "şarkı",
+    "sentence": "The song is here.",
+    "category": "music"
+  },
+  {
+    "id": 207,
+    "word": "hungry",
+    "meaning": "aç",
+    "sentence": "Rarely has the hungry been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "adjectives"
+  },
+  {
+    "id": 6,
+    "word": "cow",
+    "meaning": "inek",
+    "sentence": "Despite its ordinary appearance, the cow carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "animals"
+  },
+  {
+    "id": 34,
+    "word": "crab",
+    "meaning": "yengeç",
+    "sentence": "My crab is red.",
+    "category": "animals"
+  },
+  {
+    "id": 126,
+    "word": "plumber",
+    "meaning": "tesisatçı",
+    "sentence": "I saw the plumber yesterday.",
+    "category": "jobs"
+  },
+  {
+    "id": 226,
+    "word": "house",
+    "meaning": "ev",
+    "sentence": "The house is here.",
+    "category": "places"
+  },
+  {
+    "id": 403,
+    "word": "internet",
+    "meaning": "internet",
+    "sentence": "By analyzing the internet, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "science"
+  },
+  {
+    "id": 138,
+    "word": "look",
+    "meaning": "bakmak",
+    "sentence": "The look is small.",
+    "category": "verbs"
+  },
+  {
+    "id": 268,
+    "word": "tomorrow",
+    "meaning": "yarın",
+    "sentence": "That tomorrow is big.",
+    "category": "time"
+  },
+  {
+    "id": 43,
+    "word": "grape",
+    "meaning": "üzüm",
+    "sentence": "By analyzing the grape, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "food"
+  },
+  {
+    "id": 312,
+    "word": "oven",
+    "meaning": "fırın",
+    "sentence": "The oven, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "household"
+  },
+  {
+    "id": 345,
+    "word": "mouth",
+    "meaning": "ağız",
+    "sentence": "My mouth is red.",
+    "category": "body"
+  },
+  {
+    "id": 155,
+    "word": "run",
+    "meaning": "koşmak",
+    "sentence": "The run is small.",
+    "category": "verbs"
+  },
+  {
+    "id": 258,
+    "word": "tram",
+    "meaning": "tramvay",
+    "sentence": "The tram, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "transport"
+  },
+  {
+    "id": 302,
+    "word": "sofa",
+    "meaning": "kanepe",
+    "sentence": "This is a sofa.",
+    "category": "household"
+  },
+  {
+    "id": 306,
+    "word": "floor",
+    "meaning": "zemin",
+    "sentence": "The floor is small.",
+    "category": "household"
+  },
+  {
+    "id": 355,
+    "word": "grass",
+    "meaning": "çimen",
+    "sentence": "By analyzing the grass, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "nature"
+  },
+  {
+    "id": 456,
+    "word": "exam",
+    "meaning": "sınav",
+    "sentence": "The exam is small.",
+    "category": "education"
+  },
+  {
+    "id": 3,
+    "word": "bird",
+    "meaning": "kuş",
+    "sentence": "The bird, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "animals"
+  },
+  {
+    "id": 381,
+    "word": "swimming",
+    "meaning": "yüzme",
+    "sentence": "The presence of the swimming in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "sports"
+  },
+  {
+    "id": 234,
+    "word": "hospital",
+    "meaning": "hastane",
+    "sentence": "This is a hospital.",
+    "category": "places"
+  },
+  {
+    "id": 167,
+    "word": "know",
+    "meaning": "bilmek",
+    "sentence": "The know is on the table.",
+    "category": "verbs"
+  },
+  {
+    "id": 141,
+    "word": "say",
+    "meaning": "söylemek",
+    "sentence": "Far from being mundane, the say encapsulates the very essence of transformation and continuity.",
+    "category": "verbs"
+  },
+  {
+    "id": 57,
+    "word": "onion",
+    "meaning": "soğan",
+    "sentence": "That onion is big.",
+    "category": "food"
+  },
+  {
+    "id": 137,
+    "word": "see",
+    "meaning": "görmek",
+    "sentence": "I saw the see yesterday.",
+    "category": "verbs"
+  },
+  {
+    "id": 310,
+    "word": "mirror",
+    "meaning": "ayna",
+    "sentence": "The mirror is very nice.",
+    "category": "household"
+  },
+  {
+    "id": 110,
+    "word": "judge",
+    "meaning": "hâkim",
+    "sentence": "The judge is very nice.",
+    "category": "jobs"
+  },
+  {
+    "id": 399,
+    "word": "melody",
+    "meaning": "melodi",
+    "sentence": "By analyzing the melody, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "music"
+  },
+  {
+    "id": 476,
+    "word": "profit",
+    "meaning": "kâr",
+    "sentence": "My profit is red.",
+    "category": "business"
+  },
+  {
+    "id": 35,
+    "word": "lobster",
+    "meaning": "ıstakoz",
+    "sentence": "By analyzing the lobster, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "animals"
+  },
+  {
+    "id": 82,
+    "word": "cookie",
+    "meaning": "kurabiye",
+    "sentence": "In ancient cultures, the cookie was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "food"
+  },
+  {
+    "id": 433,
+    "word": "government",
+    "meaning": "hükümet",
+    "sentence": "The presence of the government in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "society"
+  },
+  {
+    "id": 434,
+    "word": "democracy",
+    "meaning": "demokrasi",
+    "sentence": "In ancient cultures, the democracy was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "society"
+  },
+  {
+    "id": 444,
+    "word": "passport",
+    "meaning": "pasaport",
+    "sentence": "Although the passport may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "travel"
+  },
+  {
+    "id": 237,
+    "word": "mall",
+    "meaning": "alışveriş merkezi",
+    "sentence": "The mall is on the table.",
+    "category": "places"
+  },
+  {
+    "id": 328,
+    "word": "jacket",
+    "meaning": "ceket",
+    "sentence": "This is a jacket.",
+    "category": "clothing"
+  },
+  {
+    "id": 216,
+    "word": "wrong",
+    "meaning": "yanlış",
+    "sentence": "My wrong is red.",
+    "category": "adjectives"
+  },
+  {
+    "id": 13,
+    "word": "fox",
+    "meaning": "tilki",
+    "sentence": "Despite its ordinary appearance, the fox carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "animals"
+  },
+  {
+    "id": 412,
+    "word": "physics",
+    "meaning": "fizik",
+    "sentence": "Rarely has the physics been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "science"
+  },
+  {
+    "id": 354,
+    "word": "flower",
+    "meaning": "çiçek",
+    "sentence": "The flower is here.",
+    "category": "nature"
+  },
+  {
+    "id": 199,
+    "word": "hot",
+    "meaning": "sıcak",
+    "sentence": "My hot is red.",
+    "category": "adjectives"
+  },
+  {
+    "id": 173,
+    "word": "want",
+    "meaning": "istemek",
+    "sentence": "She has a want.",
+    "category": "verbs"
+  },
+  {
+    "id": 147,
+    "word": "work",
+    "meaning": "çalışmak",
+    "sentence": "By analyzing the work, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "verbs"
+  },
+  {
+    "id": 190,
+    "word": "bad",
+    "meaning": "kötü",
+    "sentence": "I like the bad.",
+    "category": "adjectives"
+  },
+  {
+    "id": 482,
+    "word": "meeting",
+    "meaning": "toplantı",
+    "sentence": "That meeting is big.",
+    "category": "business"
+  },
+  {
+    "id": 477,
+    "word": "revenue",
+    "meaning": "gelir",
+    "sentence": "The revenue is here.",
+    "category": "business"
+  },
+  {
+    "id": 114,
+    "word": "chef",
+    "meaning": "aşçı",
+    "sentence": "She has a chef.",
+    "category": "jobs"
+  },
+  {
+    "id": 97,
+    "word": "pink",
+    "meaning": "pembe",
+    "sentence": "Despite its ordinary appearance, the pink carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "colors"
+  },
+  {
+    "id": 29,
+    "word": "owl",
+    "meaning": "baykuş",
+    "sentence": "The owl, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "animals"
+  },
+  {
+    "id": 417,
+    "word": "research",
+    "meaning": "araştırma",
+    "sentence": "This is a research.",
+    "category": "science"
+  },
+  {
+    "id": 368,
+    "word": "sand",
+    "meaning": "kum",
+    "sentence": "This is a sand.",
+    "category": "nature"
+  },
+  {
+    "id": 494,
+    "word": "suddenly",
+    "meaning": "ansızın",
+    "sentence": "The suddenly is on the table.",
+    "category": "adverbs"
+  },
+  {
+    "id": 184,
+    "word": "small",
+    "meaning": "küçük",
+    "sentence": "By analyzing the small, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "adjectives"
+  },
+  {
+    "id": 303,
+    "word": "lamp",
+    "meaning": "lamba",
+    "sentence": "The lamp, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "household"
+  },
+  {
+    "id": 231,
+    "word": "school",
+    "meaning": "okul",
+    "sentence": "The school, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "places"
+  },
+  {
+    "id": 79,
+    "word": "oil",
+    "meaning": "yağ",
+    "sentence": "The oil, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "food"
+  },
+  {
+    "id": 104,
+    "word": "navy",
+    "meaning": "lacivert",
+    "sentence": "The presence of the navy in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "colors"
+  },
+  {
+    "id": 413,
+    "word": "chemistry",
+    "meaning": "kimya",
+    "sentence": "My chemistry is red.",
+    "category": "science"
+  },
+  {
+    "id": 340,
+    "word": "leg",
+    "meaning": "bacak",
+    "sentence": "Rarely has the leg been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "body"
+  },
+  {
+    "id": 80,
+    "word": "flour",
+    "meaning": "un",
+    "sentence": "My flour is red.",
+    "category": "food"
+  },
+  {
+    "id": 379,
+    "word": "tennis",
+    "meaning": "tenis",
+    "sentence": "The tennis is here.",
+    "category": "sports"
+  },
+  {
+    "id": 38,
+    "word": "koala",
+    "meaning": "koala",
+    "sentence": "That koala is big.",
+    "category": "animals"
+  },
+  {
+    "id": 100,
+    "word": "gold",
+    "meaning": "altın rengi",
+    "sentence": "The gold, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "colors"
+  },
+  {
+    "id": 326,
+    "word": "skirt",
+    "meaning": "etek",
+    "sentence": "Although the skirt may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "clothing"
+  },
+  {
+    "id": 18,
+    "word": "elephant",
+    "meaning": "fil",
+    "sentence": "She has a elephant.",
+    "category": "animals"
+  },
+  {
+    "id": 238,
+    "word": "park",
+    "meaning": "park",
+    "sentence": "That park is big.",
+    "category": "places"
+  },
+  {
+    "id": 406,
+    "word": "database",
+    "meaning": "veritabanı",
+    "sentence": "The database, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "science"
+  },
+  {
+    "id": 449,
+    "word": "destination",
+    "meaning": "varış noktası",
+    "sentence": "The destination, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "travel"
+  },
+  {
+    "id": 37,
+    "word": "penguin",
+    "meaning": "penguen",
+    "sentence": "Far from being mundane, the penguin encapsulates the very essence of transformation and continuity.",
+    "category": "animals"
+  },
+  {
+    "id": 175,
+    "word": "love",
+    "meaning": "sevmek",
+    "sentence": "I like the love.",
+    "category": "verbs"
+  },
+  {
+    "id": 149,
+    "word": "read",
+    "meaning": "okumak",
+    "sentence": "By analyzing the read, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "verbs"
+  },
+  {
+    "id": 479,
+    "word": "investment",
+    "meaning": "yatırım",
+    "sentence": "Rarely has the investment been described with such eloquence, yet its role in shaping memory is undeniable.",
+    "category": "business"
+  },
+  {
+    "id": 353,
+    "word": "tree",
+    "meaning": "ağaç",
+    "sentence": "The tree is small.",
+    "category": "nature"
+  },
+  {
+    "id": 244,
+    "word": "station",
+    "meaning": "istasyon",
+    "sentence": "The presence of the station in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "places"
+  },
+  {
+    "id": 489,
+    "word": "logistics",
+    "meaning": "lojistik",
+    "sentence": "The logistics, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "business"
+  },
+  {
+    "id": 23,
+    "word": "butterfly",
+    "meaning": "kelebek",
+    "sentence": "My butterfly is red.",
+    "category": "animals"
+  },
+  {
+    "id": 94,
+    "word": "white",
+    "meaning": "beyaz",
+    "sentence": "I like the white.",
+    "category": "colors"
+  },
+  {
+    "id": 26,
+    "word": "mosquito",
+    "meaning": "sivrisinek",
+    "sentence": "The mosquito is very nice.",
+    "category": "animals"
+  },
+  {
+    "id": 405,
+    "word": "hardware",
+    "meaning": "donanım",
+    "sentence": "That hardware is big.",
+    "category": "science"
+  },
+  {
+    "id": 467,
+    "word": "brave",
+    "meaning": "cesur",
+    "sentence": "The brave is here.",
+    "category": "personality"
+  },
+  {
+    "id": 452,
+    "word": "teacher",
+    "meaning": "öğretmen",
+    "sentence": "This is a teacher.",
+    "category": "education"
+  },
+  {
+    "id": 496,
+    "word": "almost",
+    "meaning": "neredeyse",
+    "sentence": "In ancient cultures, the almost was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "adverbs"
+  },
+  {
+    "id": 41,
+    "word": "banana",
+    "meaning": "muz",
+    "sentence": "My banana is red.",
+    "category": "food"
+  },
+  {
+    "id": 424,
+    "word": "precision",
+    "meaning": "hassasiyet",
+    "sentence": "The presence of the precision in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "science"
+  },
+  {
+    "id": 274,
+    "word": "later",
+    "meaning": "daha sonra",
+    "sentence": "I like the later.",
+    "category": "time"
+  },
+  {
+    "id": 460,
+    "word": "curriculum",
+    "meaning": "müfredat",
+    "sentence": "The presence of the curriculum in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "education"
+  },
+  {
+    "id": 404,
+    "word": "software",
+    "meaning": "yazılım",
+    "sentence": "The software is very nice.",
+    "category": "science"
+  },
+  {
+    "id": 431,
+    "word": "justice",
+    "meaning": "adalet",
+    "sentence": "By analyzing the justice, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "society"
+  },
+  {
+    "id": 343,
+    "word": "ear",
+    "meaning": "kulak",
+    "sentence": "The presence of the ear in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "body"
+  },
+  {
+    "id": 335,
+    "word": "belt",
+    "meaning": "kemer",
+    "sentence": "The belt is very nice.",
+    "category": "clothing"
+  },
+  {
+    "id": 393,
+    "word": "guitar",
+    "meaning": "gitar",
+    "sentence": "The guitar is very nice.",
+    "category": "music"
+  },
+  {
+    "id": 373,
+    "word": "star",
+    "meaning": "yıldız",
+    "sentence": "The star, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "nature"
+  },
+  {
+    "id": 162,
+    "word": "get",
+    "meaning": "almak",
+    "sentence": "The get is here.",
+    "category": "verbs"
+  },
+  {
+    "id": 86,
+    "word": "juice",
+    "meaning": "meyve suyu",
+    "sentence": "This is a juice.",
+    "category": "food"
+  },
+  {
+    "id": 96,
+    "word": "purple",
+    "meaning": "mor",
+    "sentence": "I like the purple.",
+    "category": "colors"
+  },
+  {
+    "id": 251,
+    "word": "plane",
+    "meaning": "uçak",
+    "sentence": "This is a plane.",
+    "category": "transport"
+  },
+  {
+    "id": 159,
+    "word": "buy",
+    "meaning": "satın almak",
+    "sentence": "Far from being mundane, the buy encapsulates the very essence of transformation and continuity.",
+    "category": "verbs"
+  },
+  {
+    "id": 117,
+    "word": "pilot",
+    "meaning": "pilot",
+    "sentence": "She has a pilot.",
+    "category": "jobs"
+  },
+  {
+    "id": 154,
+    "word": "finish",
+    "meaning": "bitirmek",
+    "sentence": "She has a finish.",
+    "category": "verbs"
+  },
+  {
+    "id": 42,
+    "word": "orange",
+    "meaning": "portakal",
+    "sentence": "This is a orange.",
+    "category": "food"
+  },
+  {
+    "id": 59,
+    "word": "carrot",
+    "meaning": "havuç",
+    "sentence": "Despite its ordinary appearance, the carrot carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "food"
+  },
+  {
+    "id": 495,
+    "word": "already",
+    "meaning": "zaten",
+    "sentence": "Although the already may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "adverbs"
+  },
+  {
+    "id": 30,
+    "word": "dolphin",
+    "meaning": "yunus",
+    "sentence": "That dolphin is big.",
+    "category": "animals"
+  },
+  {
+    "id": 74,
+    "word": "lamb",
+    "meaning": "kuzu eti",
+    "sentence": "Far from being mundane, the lamb encapsulates the very essence of transformation and continuity.",
+    "category": "food"
+  },
+  {
+    "id": 388,
+    "word": "baseball",
+    "meaning": "beyzbol",
+    "sentence": "By analyzing the baseball, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "sports"
+  },
+  {
+    "id": 113,
+    "word": "farmer",
+    "meaning": "çiftçi",
+    "sentence": "Although the farmer may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "jobs"
+  },
+  {
+    "id": 217,
+    "word": "safe",
+    "meaning": "güvenli",
+    "sentence": "Although the safe may seem trivial, philosophers have long debated its significance in broader existential discussions.",
+    "category": "adjectives"
+  },
+  {
+    "id": 286,
+    "word": "storm",
+    "meaning": "fırtına",
+    "sentence": "By analyzing the storm, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "weather"
+  },
+  {
+    "id": 165,
+    "word": "do",
+    "meaning": "yapmak",
+    "sentence": "If one reflects deeply, the do embodies resilience and adaptation across countless generations.",
+    "category": "verbs"
+  },
+  {
+    "id": 139,
+    "word": "watch",
+    "meaning": "izlemek",
+    "sentence": "The watch, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "verbs"
+  },
+  {
+    "id": 247,
+    "word": "post office",
+    "meaning": "posta ofisi",
+    "sentence": "The presence of the post office in this context underscores the paradox of simplicity and depth in human perception.",
+    "category": "places"
+  },
+  {
+    "id": 131,
+    "word": "programmer",
+    "meaning": "yazılımcı",
+    "sentence": "My programmer is red.",
+    "category": "jobs"
+  },
+  {
+    "id": 20,
+    "word": "monkey",
+    "meaning": "maymun",
+    "sentence": "By analyzing the monkey, scholars uncover layers of meaning hidden beneath its surface.",
+    "category": "animals"
+  },
+  {
+    "id": 344,
+    "word": "nose",
+    "meaning": "burun",
+    "sentence": "The nose, often overlooked in daily life, reveals remarkable complexity when observed carefully.",
+    "category": "body"
+  },
+  {
+    "id": 71,
+    "word": "meat",
+    "meaning": "et",
+    "sentence": "Despite its ordinary appearance, the meat carried profound symbolic meaning that only a few could truly appreciate.",
+    "category": "food"
+  },
+  {
+    "id": 395,
+    "word": "violin",
+    "meaning": "keman",
+    "sentence": "I like the violin.",
+    "category": "music"
+  },
+  {
+    "id": 453,
+    "word": "student",
+    "meaning": "öğrenci",
+    "sentence": "She has a student.",
+    "category": "education"
+  },
+  {
+    "id": 441,
+    "word": "trip",
+    "meaning": "gezi",
+    "sentence": "That trip is big.",
+    "category": "travel"
+  },
+  {
+    "id": 384,
+    "word": "skiing",
+    "meaning": "kayak",
+    "sentence": "The skiing, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "sports"
+  },
+  {
+    "id": 115,
+    "word": "waiter",
+    "meaning": "garson",
+    "sentence": "If one reflects deeply, the waiter embodies resilience and adaptation across countless generations.",
+    "category": "jobs"
+  },
+  {
+    "id": 143,
+    "word": "eat",
+    "meaning": "yemek",
+    "sentence": "The eat is here.",
+    "category": "verbs"
+  },
+  {
+    "id": 21,
+    "word": "camel",
+    "meaning": "deve",
+    "sentence": "If one reflects deeply, the camel embodies resilience and adaptation across countless generations.",
+    "category": "animals"
+  },
+  {
+    "id": 283,
+    "word": "wind",
+    "meaning": "rüzgâr",
+    "sentence": "The wind is here.",
+    "category": "weather"
+  },
+  {
+    "id": 484,
+    "word": "contract",
+    "meaning": "sözleşme",
+    "sentence": "The contract is on the table.",
+    "category": "business"
+  },
+  {
+    "id": 322,
+    "word": "t-shirt",
+    "meaning": "tişört",
+    "sentence": "The t-shirt, situated against the backdrop of history, demonstrates the evolution of culture and identity.",
+    "category": "clothing"
+  },
+  {
+    "id": 382,
+    "word": "running",
+    "meaning": "koşu",
+    "sentence": "In ancient cultures, the running was not merely functional but deeply intertwined with rituals and traditions.",
+    "category": "sports"
+  },
+  {
+    "id": 46,
+    "word": "peach",
+    "meaning": "şeftali",
+    "sentence": "If one reflects deeply, the peach embodies resilience and adaptation across countless generations.",
+    "category": "food"
+  }
+]

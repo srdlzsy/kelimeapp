@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "title": "Advanced Grammar Starter Pack - A1 to C1",
+    "description": "Mixed-level grammar dataset for mobile apps. 25 topics across A1-C1, with English/Turkish explanations, examples, difficulty and mini practice.",
+    "version": "1.0.0",
+    "date": "2025-08-29",
+    "license": "CC0 (public domain) - free to use",
+    "author": "ChatGPT"
+  },
+  "units": [
+    {
+      "id": "U001",
+      "level": "A1",
+      "difficulty": "kolay",
+      "topic": "To be (am/is/are)",
+      "description_en": "Use 'to be' for identity, jobs, states and location.",
+      "description_tr": "'To be' fiili kimlik, meslek, durum ve yer bildirmek için kullanılır.",
+      "examples": [
+        {
+          "en": "I am a student.",
+          "tr": "Ben bir öğrenciyim."
+        },
+        {
+          "en": "She is at home.",
+          "tr": "O evde."
+        }
+      ],
+      "practice": [
+        {
+          "question": "He ___ happy.",
+          "answer": "is"
+        }
+      ],
+      "tags": [
+        "a1",
+        "to"
+      ]
+    },
+    {
+      "id": "U002",
+      "level": "A1",
+      "difficulty": "kolay",
+      "topic": "Present Simple",
+      "description_en": "Talk about routines and facts.",
+      "description_tr": "Günlük rutinleri ve genel gerçekleri anlatmak için kullanılır.",
+      "examples": [
+        {
+          "en": "I go to school.",
+          "tr": "Okula giderim."
+        },
+        {
+          "en": "She likes coffee.",
+          "tr": "O kahve sever."
+        }
+      ],
+      "practice": [
+        {
+          "question": "She ___ (like) chocolate.",
+          "answer": "likes"
+        }
+      ],
+      "tags": [
+        "a1",
+        "present"
+      ]
+    },
+    {
+      "id": "U003",
+      "level": "A1",
+      "difficulty": "kolay",
+      "topic": "There is / There are",
+      "description_en": "Express existence: singular/plural.",
+      "description_tr": "Varlık bildirmek için 'there is/are' kullanılır.",
+      "examples": [
+        {
+          "en": "There is a cat.",
+          "tr": "Bir kedi var."
+        },
+        {
+          "en": "There are two books.",
+          "tr": "İki kitap var."
+        }
+      ],
+      "practice": [
+        {
+          "question": "___ ___ a pen on the table.",
+          "answer": "There is"
+        }
+      ],
+      "tags": [
+        "a1",
+        "there"
+      ]
+    },
+    {
+      "id": "U004",
+      "level": "A2",
+      "difficulty": "orta",
+      "topic": "Past Simple Regular/Irregular",
+      "description_en": "Talk about completed past actions.",
+      "description_tr": "Geçmişte tamamlanmış olayları anlatmak için kullanılır.",
+      "examples": [
+        {
+          "en": "I visited Paris last year.",
+          "tr": "Geçen yıl Paris'i ziyaret ettim."
+        },
+        {
+          "en": "She went to Ankara.",
+          "tr": "O Ankara'ya gitti."
+        }
+      ],
+      "practice": [
+        {
+          "question": "We ___ (not watch) TV yesterday.",
+          "answer": "didn't watch"
+        }
+      ],
+      "tags": [
+        "a2",
+        "past"
+      ]
+    },
+    {
+      "id": "U005",
+      "level": "A2",
+      "difficulty": "orta",
+      "topic": "Comparatives & Superlatives",
+      "description_en": "Compare things: -er/-est or more/most.",
+      "description_tr": "İki veya daha fazla şeyi karşılaştırmak için kullanılır.",
+      "examples": [
+        {
+          "en": "She is taller than me.",
+          "tr": "O benden daha uzun."
+        },
+        {
+          "en": "He is the best student.",
+          "tr": "O en iyi öğrencidir."
+        }
+      ],
+      "practice": [
+        {
+          "question": "This car is ___ (fast) than that one.",
+          "answer": "faster"
+        }
+      ],
+      "tags": [
+        "a2",
+        "comparatives"
+      ]
+    },
+    {
+      "id": "U006",
+      "level": "A2",
+      "difficulty": "orta",
+      "topic": "Present Perfect",
+      "description_en": "Actions with present relevance.",
+      "description_tr": "Geçmişte yapılmış ve şu anla ilgisi olan eylemler için.",
+      "examples": [
+        {
+          "en": "I have seen that movie.",
+          "tr": "O filmi gördüm."
+        },
+        {
+          "en": "She has just left.",
+          "tr": "O az önce ayrıldı."
+        }
+      ],
+      "practice": [
+        {
+          "question": "I ___ (visit) Rome twice.",
+          "answer": "have visited"
+        }
+      ],
+      "tags": [
+        "a2",
+        "present"
+      ]
+    },
+    {
+      "id": "U007",
+      "level": "B1",
+      "difficulty": "orta",
+      "topic": "First Conditional",
+      "description_en": "If + present, will + verb for real future possibilities.",
+      "description_tr": "Gerçekleşebilir gelecek ihtimalleri için kullanılır.",
+      "examples": [
+        {
+          "en": "If it rains, we'll stay home.",
+          "tr": "Eğer yağmur yağarsa evde kalacağız."
+        },
+        {
+          "en": "If you study, you'll pass.",
+          "tr": "Eğer çalışırsan geçersin."
+        }
+      ],
+      "practice": [
+        {
+          "question": "If he ___ (hurry), he ___ (catch) the bus.",
+          "answer": "hurries / will catch"
+        }
+      ],
+      "tags": [
+        "b1",
+        "first"
+      ]
+    },
+    {
+      "id": "U008",
+      "level": "B1",
+      "difficulty": "zor",
+      "topic": "Second Conditional",
+      "description_en": "If + past, would + verb for unreal present/future.",
+      "description_tr": "Gerçek olmayan şimdiki/gelecek koşullar için kullanılır.",
+      "examples": [
+        {
+          "en": "If I had money, I would travel.",
+          "tr": "Param olsaydı seyahat ederdim."
+        },
+        {
+          "en": "If I were you, I'd apologize.",
+          "tr": "Senin yerinde olsam özür dilerdim."
+        }
+      ],
+      "practice": [
+        {
+          "question": "If I ___ (be) rich, I ___ (buy) a house.",
+          "answer": "were / would buy"
+        }
+      ],
+      "tags": [
+        "b1",
+        "second"
+      ]
+    },
+    {
+      "id": "U009",
+      "level": "B1",
+      "difficulty": "orta",
+      "topic": "Passive Voice (Simple)",
+      "description_en": "be + past participle for focusing on action/object.",
+      "description_tr": "Eylem veya nesneye odaklanmak için edilgen yapı kullanılır.",
+      "examples": [
+        {
+          "en": "The cake was eaten.",
+          "tr": "Pasta yendi."
+        },
+        {
+          "en": "Cars are made in Japan.",
+          "tr": "Arabalar Japonya'da yapılır."
+        }
+      ],
+      "practice": [
+        {
+          "question": "My bag ___ (steal) yesterday.",
+          "answer": "was stolen"
+        }
+      ],
+      "tags": [
+        "b1",
+        "passive"
+      ]
+    },
+    {
+      "id": "U010",
+      "level": "B2",
+      "difficulty": "zor",
+      "topic": "Relative Clauses Defining",
+      "description_en": "who/which/that for essential info.",
+      "description_tr": "Özneye veya nesneye dair gerekli bilgiyi ekler.",
+      "examples": [
+        {
+          "en": "The man who called is my uncle.",
+          "tr": "Arayan adam benim amcam."
+        },
+        {
+          "en": "This is the book that I need.",
+          "tr": "İhtiyacım olan kitap bu."
+        }
+      ],
+      "practice": [
+        {
+          "question": "The woman ___ lives next door is a doctor.",
+          "answer": "who"
+        }
+      ],
+      "tags": [
+        "b2",
+        "relative"
+      ]
+    },
+    {
+      "id": "U011",
+      "level": "B2",
+      "difficulty": "zor",
+      "topic": "Mixed Conditionals",
+      "description_en": "Combine first/second/third conditionals for complex scenarios.",
+      "description_tr": "Farklı koşul tiplerini karıştırarak olası/olay geçmiş ilişkisi kurar.",
+      "examples": [
+        {
+          "en": "If I had studied, I would be ready now.",
+          "tr": "Ders çalışsaydım şimdi hazır olurdum."
+        }
+      ],
+      "practice": [
+        {
+          "question": "If she ___ (listen) yesterday, she ___ (know) the answer now.",
+          "answer": "had listened / would know"
+        }
+      ],
+      "tags": [
+        "b2",
+        "mixed"
+      ]
+    },
+    {
+      "id": "U012",
+      "level": "B2",
+      "difficulty": "zor",
+      "topic": "Reported Speech",
+      "description_en": "Change direct speech into reported.",
+      "description_tr": "Doğrudan konuşmayı dolaylı anlatıma çevirir.",
+      "examples": [
+        {
+          "en": "He said, 'I am tired.' → He said he was tired.",
+          "tr": "O dedi ki 'Yorgunum.' → O yorgun olduğunu söyledi."
+        }
+      ],
+      "practice": [
+        {
+          "question": "She said, 'I like pizza.' → She said she ___ pizza.",
+          "answer": "liked"
+        }
+      ],
+      "tags": [
+        "b2",
+        "reported"
+      ]
+    },
+    {
+      "id": "U013",
+      "level": "C1",
+      "difficulty": "zor",
+      "topic": "Advanced Modals",
+      "description_en": "Express speculation, deduction, and obligation.",
+      "description_tr": "Tahmin, zorunluluk ve olasılık ifade eder.",
+      "examples": [
+        {
+          "en": "He must have left already.",
+          "tr": "O muhtemelen çoktan ayrılmıştır."
+        },
+        {
+          "en": "You should have called her.",
+          "tr": "Onu aramalıydın."
+        }
+      ],
+      "practice": [
+        {
+          "question": "They ___ (might) be at home now.",
+          "answer": "might"
+        }
+      ],
+      "tags": [
+        "c1",
+        "advanced"
+      ]
+    },
+    {
+      "id": "U014",
+      "level": "C1",
+      "difficulty": "zor",
+      "topic": "Inversion in Conditionals",
+      "description_en": "Invert auxiliary verbs for emphasis/formal style.",
+      "description_tr": "Vurgu veya resmi üslup için yardımcı fiil inversiyonu.",
+      "examples": [
+        {
+          "en": "Had I known, I would have acted differently.",
+          "tr": "Bilseydim, farklı hareket ederdim."
+        }
+      ],
+      "practice": [
+        {
+          "question": "___ I seen him, I would have spoken.",
+          "answer": "Had"
+        }
+      ],
+      "tags": [
+        "c1",
+        "inversion"
+      ]
+    },
+    {
+      "id": "U015",
+      "level": "C1",
+      "difficulty": "zor",
+      "topic": "Cleft Sentences",
+      "description_en": "Use it/what to emphasize sentence parts.",
+      "description_tr": "Cümlenin bir kısmını vurgulamak için cleft cümle kullanılır.",
+      "examples": [
+        {
+          "en": "It was John who broke the vase.",
+          "tr": "Vazoyu kıran John'du."
+        },
+        {
+          "en": "What I need is a break.",
+          "tr": "İhtiyacım olan şey bir moladır."
+        }
+      ],
+      "practice": [
+        {
+          "question": "___ that worries me is the result.",
+          "answer": "What"
+        }
+      ],
+      "tags": [
+        "c1",
+        "cleft"
+      ]
+    }
+  ]
+}
