@@ -219,7 +219,7 @@ export default function TopicDetailView({ route, navigation }) {
       <ScrollView 
         style={styles.content} 
         showsVerticalScrollIndicator={false}
-        contentContainerStyle={{ paddingBottom: 40 }} // ALT NAV BAR İÇİN
+        contentContainerStyle={{ paddingBottom: 70 }} // ALT NAV BAR İÇİN
       >
         {activeTab === 'overview' && renderOverview()}
         {activeTab === 'examples' && renderExamples()}
