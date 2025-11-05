@@ -106,3 +106,4 @@ APK veya AAB dosyasını Play Store’a yükleyebilirsiniz.
 📄 Lisans
 
 © 2025 Tüm Hakları Saklıdır | Serdal Özsoy
+
